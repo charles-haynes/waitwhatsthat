@@ -1,0 +1,10 @@
+{{- $src := .Get 0 -}}
+{{- $fill := .Get 1 -}}
+{{- $caption := .Get 2 -}}
+{{- $img := .Page.Resources.GetMatch $src -}}
+{{- $fill_img := $img.Fill $fill }}
+<figure class="fr w-33">
+  <a href="{{ $img.RelPermalink }}"><img src="{{ $fill_img.RelPermalink }}"></a>
+  <figcaption>{{ $caption }}</figcaption>
+</figure>
+
