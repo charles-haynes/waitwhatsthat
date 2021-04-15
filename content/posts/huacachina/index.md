@@ -12,13 +12,13 @@ coverImage: "Huacachina-Dunes.jpg"
 
 ## Huacachina
 
-![Huacachina](images/Huacachina-Huacachina-300x200.jpg)
+{{< img "images/Huacachina-Huacachina.jpg" "300x200" "Huacachina" >}}
 
 Huacachina
 
 Huacachina is a natural desert oasis, just outside the city of Ica. There’s a small lagoon, surrounded by high sand dunes. There are maybe a hundred residents and thousands of visiting tourists each year. It was once a getaway for Peru’s elite, a secluded garden to enjoy nature and relax. It’s a cup like valley in the midst of massive sand dunes. Most people either ride dune buggies, sandboard, or ski down the dunes. None of those really appealed to us, so we just chilled in quiet nature. I climbed up to the top of the biggest nearby dune to get a view of the surrounding desert, and look down on the lagoon. The hike itself isn’t too bad, maybe a couple hundred metres of elevation gain, but walking on the ridge line was more nerve racking than I expected. Those dunes are _tall_ and _steep_. It looks like you could easily fall, and if you did you’d tumble all the way to the bottom.
 
-![Dunes](images/Huacachina-Dunes-2-300x175.jpg)
+{{< img "images/Huacachina-Dunes-2.jpg" "300x175" "Dunes" >}}
 
 Dunes
 
@@ -26,34 +26,34 @@ On the way back I stopped to take some pictures of the sun setting over the oasi
 
 Huacachina is a nice place to stop if you want to try sliding down the giant dunes, or if you want to see what may be the only natural desert oasis in the Americas, but otherwise there’s not a lot there.
 
-- [![Hotel Curasi](images/Huacachina-Hotel-Curasi-1024x683.jpg)](images/Huacachina-Hotel-Curasi-1024x683.jpg)
+- {{< img "images/Huacachina-Hotel-Curasi.jpg" "1024x683" "Hotel Curasi" >}}
     
     Hotel Curasi
     
-- [![Huacachina](images/Huacachina-Huacachina-1024x683.jpg)](images/Huacachina-Huacachina-1024x683.jpg)
+- {{< img "images/Huacachina-Huacachina.jpg" "1024x683" "Huacachina" >}}
     
     Huacachina
     
-- [![Dunes](images/Huacachina-Dunes-1024x683.jpg)](images/Huacachina-Dunes-1024x683.jpg)
+- {{< img "images/Huacachina-Dunes.jpg" "1024x683" "Dunes" >}}
     
     Dunes
     
-- [![Dunes](images/Huacachina-Dunes-2-1024x596.jpg)](images/Huacachina-Dunes-2-1024x596.jpg)
+- {{< img "images/Huacachina-Dunes-2.jpg" "1024x596" "Dunes" >}}
     
     Dunes
     
-- [![Sunset](images/Huacachina-Sunset-1024x683.jpg)](images/Huacachina-Sunset-1024x683.jpg)
+- {{< img "images/Huacachina-Sunset.jpg" "1024x683" "Sunset" >}}
     
     Sunset
     
-- [![Solo reciclaje](images/Huacachina-Solo-reciclaje-891x1024.jpg)](images/Huacachina-Solo-reciclaje-891x1024.jpg)
+- {{< img "images/Huacachina-Solo-reciclaje.jpg" "891x1024" "Solo reciclaje" >}}
     
     Solo reciclaje
     
-- [![Hotel Mossone](images/Huacachina-Hotel-Mossone-1024x400.jpg)](images/Huacachina-Hotel-Mossone-1024x400.jpg)
+- {{< img "images/Huacachina-Hotel-Mossone.jpg" "1024x400" "Hotel Mossone" >}}
     
     Hotel Mossone
     
-- [![Waiting for the bus](images/Huacachina-Waiting-for-the-bus-1024x573.jpg)](images/Huacachina-Waiting-for-the-bus-1024x573.jpg)
+- {{< img "images/Huacachina-Waiting-for-the-bus.jpg" "1024x573" "Waiting for the bus" >}}
     
     Waiting for the bus

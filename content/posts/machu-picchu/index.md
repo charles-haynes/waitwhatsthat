@@ -13,7 +13,7 @@ coverImage: "Machu-Picchu-Terraces-and-hut.jpg"
 
 ## Before you go
 
-[![Machu Picchu Selfie](images/Machu-Picchu-Machu-Picchu-2-300x246.jpg)](images/Machu-Picchu-Machu-Picchu-2.jpg)
+{{< img "images/Machu-Picchu-Machu-Picchu-2.jpg" "300x246" "Machu Picchu Selfie" >}}
 
 Machu Picchu Selfie
 
@@ -25,7 +25,7 @@ Machu Picchu is about the same altitude as Cusco (and Machu Picchu Pueblo is sig
 
 ### Cusco to Machu Picchu Pueblo (Aguas Calientes)
 
-[![All Aboard](images/Poroy-All-Aboard-300x229.jpg)](images/Poroy-All-Aboard.jpg)
+{{< img "images/Poroy-All-Aboard.jpg" "300x229" "All Aboard" >}}
 
 All Aboard
 
@@ -33,7 +33,7 @@ The easiest and most comfortable way to get from Cusco to Machu Picchu is to tak
 
 ### Machu Picchu Pueblo to Machu Picchu
 
-[![Machu Picchu Pueblo](images/Machu-Picchu-Pueblo-Machu-Picchu-Pueblo-300x217.jpg)](images/Machu-Picchu-Pueblo-Machu-Picchu-Pueblo.jpg)
+{{< img "images/Machu-Picchu-Pueblo-Machu-Picchu-Pueblo.jpg" "300x217" "Machu Picchu Pueblo" >}}
 
 Machu Picchu Pueblo
 
@@ -43,7 +43,7 @@ The town of Machu Picchu Pueblo is all about the tourism. That’s not so surpri
 
 We had decided to splurge a little bit and stay at a fancier hotel in a room with a view of the river. I’m really glad we did. The views were great, right overlooking the river, the room was big and airy and the bed was HUGE. It was a nice break from the mid-range three star hotels we’ve been staying in and the price was quite reasonable (US$60/night.)
 
-[![The switchbacks](images/Machu-Picchu-The-switchbacks-300x207.jpg)](images/Machu-Picchu-The-switchbacks.jpg)
+{{< img "images/Machu-Picchu-The-switchbacks.jpg" "300x207" "The switchbacks" >}}
 
 The switchbacks
 
@@ -53,13 +53,13 @@ To get from town to Machu Picchu itself there is a shared bus (US$12 p/p each wa
 
 Logistically there two time slots for getting in to Machu Picchu. Either morning 6am-noon, or afternoon noon-6pm. Each slot has a maximum of 2500 tickets per day. You may hear scary stories about having to buy your ticket weeks in advance, but in the low season they don't sell out. Tour operators and guides in particular will try to scare you into buying a ticket from them in advance. It took us about 3 hours at our relaxed pace to see all of the regular parts of Machu Picchu. We did not get up insanely early, we had time for breakfast at the hotel and a calm stroll to the bus stop.
 
-[![Machu Picchu](images/Machu-Picchu-Machu-Picchu-300x200.jpg)](images/Machu-Picchu-Machu-Picchu.jpg)
+{{< img "images/Machu-Picchu-Machu-Picchu.jpg" "300x200" "Machu Picchu" >}}
 
 Machu Picchu
 
 I do recommend starting by walking up to caretakers hut for the view. It’s immediately to your left as you enter, and this is where you get the classic “postcard” overview of the entire site. It requires some steps but you can just take your time. After that, you follow the suggested path through the site (look at the map as you enter, note their route) and you’ll see everything. We did not hire a guide and we’re just as happy that we didn’t. We could go at our own pace, take the detours we wanted, and you can still hear guides everywhere. Because a lot is still unknown about how Machu Picchu was used most of what you’ll hear from the guides is authoritative sounding speculation.
 
-[![Fine stonework](images/Machu-Picchu-Fine-stonework-300x200.jpg)](images/Machu-Picchu-Fine-stonework.jpg)
+{{< img "images/Machu-Picchu-Fine-stonework.jpg" "300x200" "Fine stonework" >}}
 
 Fine stonework
 
@@ -75,78 +75,78 @@ On our way back we knew we were booked on the “no free snacks” train, so ate
 
 Machu Picchu is totally doable even for old out of shape people and it’s worth it. The train ride is a lot of fun, the site itself is beautiful and awe inspiring, and it’s not that complicated logistically. If you come to Peru you really should go to Machu Picchu. Just don’t forget to do all the other cool things too! (Like eat food in Lima, and see condors in Colca Canyon.)
 
-- [![All Aboard](images/Poroy-All-Aboard-1024x780.jpg)](images/Poroy-All-Aboard-1024x780.jpg)
+- {{< img "images/Poroy-All-Aboard.jpg" "1024x780" "All Aboard" >}}
     
     All Aboard
     
-- [![PeruRail Vistadome](images/Poroy-PeruRail-Vistadome-1024x683.jpg)](images/Poroy-PeruRail-Vistadome-1024x683.jpg)
+- {{< img "images/Poroy-PeruRail-Vistadome.jpg" "1024x683" "PeruRail Vistadome" >}}
     
     PeruRail Vistadome
     
-- [![Two kids](images/Machu-Picchu-Two-kids-643x1024.jpg)](images/Machu-Picchu-Two-kids-643x1024.jpg)
+- {{< img "images/Machu-Picchu-Two-kids.jpg" "643x1024" "Two kids" >}}
     
     Two kids
     
-- [![Lunch](images/Machu-Picchu-Lunch-1024x850.jpg)](images/Machu-Picchu-Lunch-1024x850.jpg)
+- {{< img "images/Machu-Picchu-Lunch.jpg" "1024x850" "Lunch" >}}
     
     Lunch
     
-- [![River Valley](images/Machu-Picchu-River-Valley-869x1024.jpg)](images/Machu-Picchu-River-Valley-869x1024.jpg)
+- {{< img "images/Machu-Picchu-River-Valley.jpg" "869x1024" "River Valley" >}}
     
     River Valley
     
-- [![Cactus Flowers](images/Machu-Picchu-Cactus-Flowers-510x1024.jpg)](images/Machu-Picchu-Cactus-Flowers-510x1024.jpg)
+- {{< img "images/Machu-Picchu-Cactus-Flowers.jpg" "510x1024" "Cactus Flowers" >}}
     
     Cactus Flowers
     
-- [![Terraces and Tunnel](images/Machu-Picchu-Terraces-and-Tunnel-1024x582.jpg)](images/Machu-Picchu-Terraces-and-Tunnel-1024x582.jpg)
+- {{< img "images/Machu-Picchu-Terraces-and-Tunnel.jpg" "1024x582" "Terraces and Tunnel" >}}
     
     Terraces and Tunnel
     
-- [![Bromeliads](images/Machu-Picchu-Bromeliads-1024x934.jpg)](images/Machu-Picchu-Bromeliads-1024x934.jpg)
+- {{< img "images/Machu-Picchu-Bromeliads.jpg" "1024x934" "Bromeliads" >}}
     
     Bromeliads
     
-- [![Cormorant](images/Machu-Picchu-Cormorant-1024x733.jpg)](images/Machu-Picchu-Cormorant-1024x733.jpg)
+- {{< img "images/Machu-Picchu-Cormorant.jpg" "1024x733" "Cormorant" >}}
     
     Cormorant
     
-- [![Machu Picchu Pueblo](images/Machu-Picchu-Pueblo-Machu-Picchu-Pueblo-1024x742.jpg)](images/Machu-Picchu-Pueblo-Machu-Picchu-Pueblo-1024x742.jpg)
+- {{< img "images/Machu-Picchu-Pueblo-Machu-Picchu-Pueblo.jpg" "1024x742" "Machu Picchu Pueblo" >}}
     
     Machu Picchu Pueblo
     
-- [![Machu Picchu](images/Machu-Picchu-Machu-Picchu-1024x683.jpg)](images/Machu-Picchu-Machu-Picchu-1024x683.jpg)
+- {{< img "images/Machu-Picchu-Machu-Picchu.jpg" "1024x683" "Machu Picchu" >}}
     
     Machu Picchu
     
-- [![Machu Picchu Selfie](images/Machu-Picchu-Machu-Picchu-2-1024x839.jpg)](images/Machu-Picchu-Machu-Picchu-2-1024x839.jpg)
+- {{< img "images/Machu-Picchu-Machu-Picchu-2.jpg" "1024x839" "Machu Picchu Selfie" >}}
     
     Machu Picchu Selfie
     
-- [![Window view](images/Machu-Picchu-Window-view-683x1024.jpg)](images/Machu-Picchu-Window-view-683x1024.jpg)
+- {{< img "images/Machu-Picchu-Window-view.jpg" "683x1024" "Window view" >}}
     
     Window view
     
-- [![Northern Viscacha](images/Machu-Picchu-Northern-Viscacha-977x1024.jpg)](images/Machu-Picchu-Northern-Viscacha-977x1024.jpg)
+- {{< img "images/Machu-Picchu-Northern-Viscacha.jpg" "977x1024" "Northern Viscacha" >}}
     
     Northern Viscacha
     
-- [![Fine stonework](images/Machu-Picchu-Fine-stonework-1024x683.jpg)](images/Machu-Picchu-Fine-stonework-1024x683.jpg)
+- {{< img "images/Machu-Picchu-Fine-stonework.jpg" "1024x683" "Fine stonework" >}}
     
     Fine stonework
     
-- [![Inca stonework](images/Machu-Picchu-Inca-stonework-1024x707.jpg)](images/Machu-Picchu-Inca-stonework-1024x707.jpg)
+- {{< img "images/Machu-Picchu-Inca-stonework.jpg" "1024x707" "Inca stonework" >}}
     
     Inca stonework
     
-- [![Water mirrors](images/Machu-Picchu-Water-mirrors-683x1024.jpg)](images/Machu-Picchu-Water-mirrors-683x1024.jpg)
+- {{< img "images/Machu-Picchu-Water-mirrors.jpg" "683x1024" "Water mirrors" >}}
     
     Water mirrors
     
-- [![The switchbacks](images/Machu-Picchu-The-switchbacks-1024x705.jpg)](images/Machu-Picchu-The-switchbacks-1024x705.jpg)
+- {{< img "images/Machu-Picchu-The-switchbacks.jpg" "1024x705" "The switchbacks" >}}
     
     The switchbacks
     
-- [![Terraces and hut](images/Machu-Picchu-Terraces-and-hut-1024x683.jpg)](images/Machu-Picchu-Terraces-and-hut-1024x683.jpg)
+- {{< img "images/Machu-Picchu-Terraces-and-hut.jpg" "1024x683" "Terraces and hut" >}}
     
     Terraces and hut

@@ -16,7 +16,7 @@ coverImage: "Andes-Colca-Canyon-Andean-Condor-2.jpg"
 
 On our itinerary between Lima and La Paz we knew we wanted to spend a few days in Arequipa. It’s sometimes called “the white city” because of the beautiful buildings made from the local white “silla” volcanic rock. The architecture is beautiful in a very Spanish Colonial sort of way, it reminded me of some of the Andalusian hill towns we visited while in Spain.
 
-![Altiplano highway](images/Andes-The-road-300x219.jpg)
+{{< img "images/Andes-The-road.jpg" "300x219" "Altiplano highway" >}}
 
 Altiplano highway
 
@@ -24,7 +24,7 @@ I noticed our bus company offered a tour to “Colca Canyon, the second deepest 
 
 ## Colca Canyon
 
-![Alpacas](images/Andes-Alpacas-300x300.jpg)
+{{< img "images/Andes-Alpacas.jpg" "300x300" "Alpacas" >}}
 
 Alpacas
 
@@ -38,7 +38,7 @@ On the way, you pass through _Mirador de los Andes_ or “Andes lookout.” It�
 
 ### Chivay
 
-![Volcano](images/Chivay-Volcano-300x218.jpg)
+{{< img "images/Chivay-Volcano.jpg" "300x218" "Volcano" >}}
 
 Volcano
 
@@ -48,7 +48,7 @@ While there we looked for _chuñyo_, the andean freeze dried potato. Farmers wi
 
 ### Aguas Termales “La Calera”
 
-![Hot springs](images/Chivay-Hot-springs-300x159.jpg)
+{{< img "images/Chivay-Hot-springs.jpg" "300x159" "Hot springs" >}}
 
 Hot springs
 
@@ -56,7 +56,7 @@ We are huge fans of natural hot springs, having spent time in them in New Zealan
 
 ### Colca Canyon
 
-![Colca canyon Terraces](images/Andes-Colca-Canyon-Colca-canyon-2-300x125.jpg)
+{{< img "images/Andes-Colca-Canyon-Colca-canyon-2.jpg" "300x125" "Colca canyon Terraces" >}}
 
 Colca canyon Terraces
 
@@ -64,7 +64,7 @@ The next day we drove down the canyon, stopping at villages and scenic views alo
 
 ### Condors
 
-![Andean Condor](images/Andes-Colca-Canyon-Andean-Condor-5-271x300.jpg)
+{{< img "images/Andes-Colca-Canyon-Andean-Condor-5.jpg" "271x300" "Andean Condor" >}}
 
 Andean Condor
 
@@ -72,7 +72,7 @@ Our guide had been preparing us for the possibility that we wouldn’t see condo
 
 Juveniles are all brown, though males may already show the flattened crest. Subadults will  have black in the wings and may have a white ruff, adults will have a white ruff and white spots in the wing feathers. Most of the condors we saw were juveniles though there was one adult.
 
-![Andean Condors](images/Andes-Colca-Canyon-Andean-Condor-4-279x300.jpg)
+{{< img "images/Andes-Colca-Canyon-Andean-Condor-4.jpg" "279x300" "Andean Condors" >}}
 
 Andean Condors
 
@@ -80,7 +80,7 @@ We were lucky or maybe there was a recent carcass. We first went to a lesser use
 
 ### Other Birds
 
-![Andean Sparrow](images/Chivay-Andean-Sparrow-252x300.jpg)
+{{< img "images/Chivay-Andean-Sparrow.jpg" "252x300" "Andean Sparrow" >}}
 
 Andean Sparrow
 
@@ -88,7 +88,7 @@ Besides the Andean Condor (_Vultur Gryphus_) we also managed to see an American 
 
 ### Cactus Ice cream
 
-![Misqui Sanky](images/Andes-Colca-Canyon-Misqui-Sanky-244x300.jpg)
+{{< img "images/Andes-Colca-Canyon-Misqui-Sanky.jpg" "244x300" "Misqui Sanky" >}}
 
 Misqui Sanky
 
@@ -106,7 +106,7 @@ Condors from above
 
 Condors from below  
 
-- ![Coca Tea](images/Andes-Tea-991x1024.jpg)
+- {{< img "images/Andes-Tea.jpg" "991x1024" "Coca Tea" >}}
     
     Coca Tea
     
@@ -114,31 +114,31 @@ Condors from below
     
     Guanaco
     
-- ![Vicuña](images/Andes-Vicuña-1024x341.jpg)
+- {{< img "images/Andes-Vicuña.jpg" "1024x341" "Vicuña" >}}
     
     Vicuña
     
-- ![Alpacas](images/Andes-Alpacas-1024x1023.jpg)
+- {{< img "images/Andes-Alpacas.jpg" "1024x1023" "Alpacas" >}}
     
     Alpacas
     
-- ![High desert plant](images/Andes-Mirador-de-los-Andes-High-desert-plant-683x1024.jpg)
+- {{< img "images/Andes-Mirador-de-los-Andes-High-desert-plant.jpg" "683x1024" "High desert plant" >}}
     
     High desert plant
     
-- ![Chuño](images/Chivay-Chuño-1024x667.jpg)
+- {{< img "images/Chivay-Chuño.jpg" "1024x667" "Chuño" >}}
     
     Chuño
     
-- ![Shrine](images/Chivay-Altar-733x1024.jpg)
+- {{< img "images/Chivay-Altar.jpg" "733x1024" "Shrine" >}}
     
     Shrine
     
-- ![Hot springs](images/Chivay-Hot-springs-1024x542.jpg)
+- {{< img "images/Chivay-Hot-springs.jpg" "1024x542" "Hot springs" >}}
     
     Hot springs
     
-- ![Andean Sparrow](images/Chivay-Andean-Sparrow-861x1024.jpg)
+- {{< img "images/Chivay-Andean-Sparrow.jpg" "861x1024" "Andean Sparrow" >}}
     
     Andean Sparrow
     
@@ -150,23 +150,23 @@ Condors from below
     
     Andes hummingbird
     
-- ![Volcano](images/Chivay-Volcano-1024x745.jpg)
+- {{< img "images/Chivay-Volcano.jpg" "1024x745" "Volcano" >}}
     
     Volcano
     
-- ![Andean Condor](images/Andes-Colca-Canyon-Andean-Condor-1024x652.jpg)
+- {{< img "images/Andes-Colca-Canyon-Andean-Condor.jpg" "1024x652" "Andean Condor" >}}
     
     Andean Condor
     
-- ![Andean Condor](images/Andes-Colca-Canyon-Andean-Condor-2-920x1024.jpg)
+- {{< img "images/Andes-Colca-Canyon-Andean-Condor-2.jpg" "920x1024" "Andean Condor" >}}
     
     Andean Condor
     
-- ![Andean Condor](images/Andes-Colca-Canyon-Andean-Condor-3-834x1024.jpg)
+- {{< img "images/Andes-Colca-Canyon-Andean-Condor-3.jpg" "834x1024" "Andean Condor" >}}
     
     Andean Condor
     
-- ![Andean Condors](images/Andes-Colca-Canyon-Andean-Condor-4-952x1024.jpg)
+- {{< img "images/Andes-Colca-Canyon-Andean-Condor-4.jpg" "952x1024" "Andean Condors" >}}
     
     Andean Condors
     
@@ -174,11 +174,11 @@ Condors from below
     
     Andean Condor
     
-- ![Colca canyon](images/Andes-Colca-Canyon-Colca-canyon-983x1024.jpg)
+- {{< img "images/Andes-Colca-Canyon-Colca-canyon.jpg" "983x1024" "Colca canyon" >}}
     
     Colca canyon
     
-- ![Cactus flower](images/Andes-Colca-Canyon-Cactus-flower-1014x1024.jpg)
+- {{< img "images/Andes-Colca-Canyon-Cactus-flower.jpg" "1014x1024" "Cactus flower" >}}
     
     Cactus flower
     
@@ -186,34 +186,34 @@ Condors from below
     
     Ant on cactus
     
-- ![Misqui Sanky](images/Andes-Colca-Canyon-Misqui-Sanky-834x1024.jpg)
+- {{< img "images/Andes-Colca-Canyon-Misqui-Sanky.jpg" "834x1024" "Misqui Sanky" >}}
     
     Misqui Sanky
     
-- ![Helado Sancayllo](images/Andes-Colca-Canyon-Helado-Sancayllo-1024x547.jpg)
+- {{< img "images/Andes-Colca-Canyon-Helado-Sancayllo.jpg" "1024x547" "Helado Sancayllo" >}}
     
     Helado Sancayllo
     
-- ![Sancayo fruit](images/Andes-Colca-Canyon-Sancayo-fruit-758x1024.jpg)
+- {{< img "images/Andes-Colca-Canyon-Sancayo-fruit.jpg" "758x1024" "Sancayo fruit" >}}
     
     Sancayo fruit
     
-- ![Colca canyon Terraces](images/Andes-Colca-Canyon-Colca-canyon-2-1024x428.jpg)
+- {{< img "images/Andes-Colca-Canyon-Colca-canyon-2.jpg" "1024x428" "Colca canyon Terraces" >}}
     
     Colca canyon Terraces
     
-- ![Rural bridge](images/Andes-Colca-Canyon-Rural-bridge-1024x986.jpg)
+- {{< img "images/Andes-Colca-Canyon-Rural-bridge.jpg" "1024x986" "Rural bridge" >}}
     
     Rural bridge
     
-- ![Abandoned structure](images/Andes-Colca-Canyon-Abandoned-structure-806x1024.jpg)
+- {{< img "images/Andes-Colca-Canyon-Abandoned-structure.jpg" "806x1024" "Abandoned structure" >}}
     
     Abandoned structure
     
-- ![Dust Devil](images/Andes-Dust-Devil-631x1024.jpg)
+- {{< img "images/Andes-Dust-Devil.jpg" "631x1024" "Dust Devil" >}}
     
     Dust Devil
     
-- ![Altiplano highway](images/Andes-The-road-1024x746.jpg)
+- {{< img "images/Andes-The-road.jpg" "1024x746" "Altiplano highway" >}}
     
     Altiplano highway

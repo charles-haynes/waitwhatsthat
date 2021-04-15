@@ -22,7 +22,7 @@ We decided to try sashimi, sushi, appetizer, and a main.
 
 #### Sashimi
 
-\[caption id="attachment\_680" align="alignright" width="300"\]![Sashimi](images/Lima-Maido-Sashimi-300x270.jpg) Sashimi\[/caption\]
+\[caption id="attachment\_680" align="alignright" width="300"\]{{< img "images/Lima-Maido-Sashimi.jpg" "300x270" "Sashimi" >}} Sashimi\[/caption\]
 
 For sashimi we had to have their uni, but they also were offering razor clams. I'm a big sucker for razor clams, and these razor clams were big suckers. Both of the sashimis were excellent. They we accompanied by fresh grated wasabi which was a nice touch.
 
@@ -32,13 +32,13 @@ We had two non-traditional nigirizushi. "Intruder" which is a torched foie gras 
 
 #### Ceviche
 
-\[caption id="attachment\_685" align="alignright" width="300"\]![Sansei ceviche](images/Lima-Maido-Sansei-ceviche-2-300x212.jpg) Sansei ceviche\[/caption\]
+\[caption id="attachment\_685" align="alignright" width="300"\]{{< img "images/Lima-Maido-Sansei-ceviche-2.jpg" "300x212" "Sansei ceviche" >}} Sansei ceviche\[/caption\]
 
 The menu had two intriguing ceviches. A "nissei" and a "sansei." We assumed the nissei would be more traditional and the sansei more "out there" since nissei is second generation and sansei is third generation immigrant. I don't know about the nissei, but the sansei cebiche was amazing. A beautifully arranged circular tower of ceviche fish, then dressed with a rain of smoking nitrogen frozen leche de tigre. Liquid nitrogen freezing is often overused to add an otherwise unrelated dramatic touch to dishes. This was genuinely interesting pairing of molecular technique with traditional cuisine and it worked. Freezing the leche de tigre allowed it to cover but not smother the fish, and the chilled texture allowed you to experience the clean fish flavours before the sauce melted and added the acidic salty citrus notes. It was brilliant.
 
 #### Sudado
 
-\[caption id="attachment\_691" align="alignright" width="300"\]![Nikkei sudado](images/Lima-Maido-Nikkei-sudado-2-300x234.jpg) Nikkei sudado\[/caption\]
+\[caption id="attachment\_691" align="alignright" width="300"\]{{< img "images/Lima-Maido-Nikkei-sudado-2.jpg" "300x234" "Nikkei sudado" >}} Nikkei sudado\[/caption\]
 
 We also had the nikkei sudado. It's a tasty fish stew, with crispy fish, served in a delicious thick yellow soup. Traditional sudado can end up with muddled flavours but these flavors were clean and distinct
 
@@ -48,7 +48,7 @@ I thought we should see what Maido was doing with ramen, but it seemed ordinary.
 
 #### Dessert
 
-\[caption id="attachment\_694" align="alignright" width="300"\]![Dessert "cebiche"](images/Lima-Maido-Murasaki-2-300x202.jpg) Dessert "cebiche"\[/caption\]
+\[caption id="attachment\_694" align="alignright" width="300"\]{{< img "images/Lima-Maido-Murasaki-2.jpg" "300x202" "Dessert "cebiche"" >}} Dessert "cebiche"\[/caption\]
 
 For dessert we ordered _another_ "ceviche" and an "egg in nest." The ceviche was chunks of white cherimoya to represent the fish, sweet potato crisps for the sweet potato, frozen mandarine sacs to play the part of shrimp, and all dressed in a thick citrusy sauce to be the leche de tigre. It was clever and tasty. The egg in nest was spherified fruit juice yolk in a white creamy jelly inside a white chocolate shell and sitting on a chocolate twig nest.
 

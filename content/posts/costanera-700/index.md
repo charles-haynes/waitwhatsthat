@@ -21,7 +21,7 @@ It's located in a nice part of Miraflores. Somewhat confusingly the website and 
 
 We saw people all around us having some kind of bright green drink in large glasses. We asked, it was a lemongrass lemonade! Had to have it. Was delicious. Will have to find it again.
 
-\[caption id="attachment\_448" align="alignright" width="300"\]![Sea urchin tiradito](images/Lima-Costanera-700-Sea-urchin-tiradito-300x201.jpg) Sea urchin tiradito\[/caption\]
+\[caption id="attachment\_448" align="alignright" width="300"\]{{< img "images/Lima-Costanera-700-Sea-urchin-tiradito.jpg" "300x201" "Sea urchin tiradito" >}} Sea urchin tiradito\[/caption\]
 
 We started with an uni _tiradito._ There was a special "_Erizo en Salsa Temsuyo"_ sea urchin in tempura sauce, but instead we ordered erizo tiradito with shoyu and olive oil "Costanera." At s/. 50 (about US $15) this felt sinfully indulgent. It was more uni at one sitting than I've ever had before. In Japan, for that price, you'd only get one sea urchin worth of uni - and it would often have come from Peru!
 
@@ -29,7 +29,7 @@ The shrimp balls were recommended, so we had one each. They're pretty large, dee
 
 Costanera 700 is also known for it's twice fried tempura. We had vegetable and shrimp. The batter was firmer and crunchier than traditional Japanese tempura, and slightly more browned. It was delicious and came with tempura sauce pre-seasoned with ginger. The ingredients were mostly traditional, big prawn, little prawn, onion, and carrot, with one special Peruvian touch - plantain. Plantain tempura is genius, I think every tempura should include it.
 
-\[caption id="attachment\_453" align="alignright" width="300"\]![Chita a la sal](images/Lima-Costanera-700-Chita-a-la-sal-2-300x167.jpg) Chita a la sal\[/caption\]
+\[caption id="attachment\_453" align="alignright" width="300"\]{{< img "images/Lima-Costanera-700-Chita-a-la-sal-2.jpg" "300x167" "Chita a la sal" >}} Chita a la sal\[/caption\]
 
 Finally we had the _chita a la sal_, a house specialty. The menu calls _chita_ "gilt head bream" (_s__parus aurata_) but most sources say chita is "peruvian grunt" (_anisotremus scapularis._) Either way it's a medium-large robust silvery fish with firm tasty white flesh. Costanera 700 prepares it baked in a salt crust, and serves it in a dramatic flaming tableside presentation. The waiters are obviously practiced because their deftness in parsing and serving it is beautiful to watch. It's served very simply with just melted butter, chopped garlic, and chopped ginger on the side for you to add to your taste.
 

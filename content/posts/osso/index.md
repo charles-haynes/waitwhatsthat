@@ -21,7 +21,7 @@ Osso is Lima's "temple to meat," a restaurant, butcher shop, and charcuterie. It
 
 #### The store
 
-\[caption id="attachment\_651" align="alignright" width="300"\]![Making sausage](images/Lima-Osso-Making-sausage-300x292.jpg) Making sausage\[/caption\]
+\[caption id="attachment\_651" align="alignright" width="300"\]{{< img "images/Lima-Osso-Making-sausage.jpg" "300x292" "Making sausage" >}} Making sausage\[/caption\]
 
 We left a bit early in order to give ourselves some insurance for unpredictable traffic, and as a result ended up about 15 minutes early for our restaurant reservation. Since the restaurant wasn't open, that gave us an opportunity to explore the butcher shop. It's eye popping. There's a salumeria towards the front. There are lots of different salamis and other cured meats hanging for inspection. I was particularly tempted by the lardo but it wasn't practical to bring in our luggage. As you move back you see cases with high quality fresh pork and beef both from Peru and imported.
 
@@ -29,7 +29,7 @@ When you get to the back you are surrounded by refrigerated cases full of aging 
 
 #### The restaurant
 
-\[caption id="attachment\_659" align="alignright" width="300"\]![Mollejas](images/Lima-Osso-Mollejas-300x161.jpg) Mollejas\[/caption\]
+\[caption id="attachment\_659" align="alignright" width="300"\]{{< img "images/Lima-Osso-Mollejas.jpg" "300x161" "Mollejas" >}} Mollejas\[/caption\]
 
 By then the restaurant was open, so we took our seats. The restaurant menu, unsurprisingly has lots of charcuterie. Pork, and beef but also some prawns, chicken, and salad. This place does not really make any attempt to cater to vegetarians though.
 
@@ -41,7 +41,7 @@ The first appetiser, mollejas (sweetbreads) over _camote_ (sweet potato), was mu
 
 #### Anticuchos
 
-\[caption id="attachment\_662" align="alignright" width="300"\]![Anticuchos](images/Lima-Osso-Anticuchos-2-300x221.jpg) Anticuchos\[/caption\]
+\[caption id="attachment\_662" align="alignright" width="300"\]{{< img "images/Lima-Osso-Anticuchos-2.jpg" "300x221" "Anticuchos" >}} Anticuchos\[/caption\]
 
 Next came the anticuchos. Anticuchos are practically the national appetiser of Peru and I have them as often as I can. Pieces of beef heart in a tangy marinade, skewered and grilled over hot coals. Properly done the are crispy and brown on the outside, and tender and juicy on the inside. Osso's anticuchos are HUGE chunks, served with potatoes confit in port fat (yum) and crispy potato skins (yum) but as delicious as those were we knew that unfortunately potatoes were to be the enemy.
 
@@ -49,13 +49,13 @@ Getting the anticuchos off the skewers was a bit of a challenge and resulted in 
 
 #### Chicharrón
 
-\[caption id="attachment\_663" align="alignright" width="300"\]![Three chicharrones](images/Lima-Osso-Three-chicharrones-300x148.jpg) Three chicharrones\[/caption\]
+\[caption id="attachment\_663" align="alignright" width="300"\]{{< img "images/Lima-Osso-Three-chicharrones.jpg" "300x148" "Three chicharrones" >}} Three chicharrones\[/caption\]
 
 Next we had three kinds of _chicharrón_. Chicharrón are "cracklings" usually fried pork skin, but can also be pork belly, mutton, or beef (or in Peru - fish!) These three were a pork belly confit for 6 hours then roasted, dehydrated pork skin, and a pork belly "_pachamanca_" style. The confit was a perfect blend of crisped skin, suave pork, and browned roast flavors. The skin was a beautifully light and airy pork crackling. The pachamanca was in a style reminiscent of traditional hot stone cooking. Steamed with a slightly sour slightly pungent ground green herb sauce that complemented the meatiness of the pork.
 
 #### Chuletón de Res
 
-\[caption id="attachment\_667" align="alignright" width="297"\]![](images/Lima-Osso-Chuletón-de-Res-2-297x300.jpg) Ribeye aged 200 days, cooked medium rare.\[/caption\]
+\[caption id="attachment\_667" align="alignright" width="297"\]{{< img "images/Lima-Osso-Chuletón-de-Res-2.jpg" "297x300" "" >}} Ribeye aged 200 days, cooked medium rare.\[/caption\]
 
 Finally the piece de resistance. Peruvian rib eye steak dry aged for 200 days. The flavor of meat aged this long is concentrated from losing so much moisture, and has a super funky umami from the breakdown of meat protein and fat. If you have a taste for it there's nothing that can compare. Because of the long storage time, the weight loss due to evaporation and trimming, and the limited audience, it tends to be rare and expensive.
 
@@ -65,7 +65,7 @@ It was a huge piece of ribeye, grilled to a perfect medium-rare. Not rare, becau
 
 #### Salad and petits fours
 
-\[caption id="attachment\_668" align="alignright" width="300"\]![Meringues](images/Lima-Osso-Meringues-300x196.jpg) Meringues\[/caption\]
+\[caption id="attachment\_668" align="alignright" width="300"\]{{< img "images/Lima-Osso-Meringues.jpg" "300x196" "Meringues" >}} Meringues\[/caption\]
 
 We also had an iceberg wedge salad with blue cheese vinaigrette to try to balance all the meat and fat, but it was hopeless. There was no way we were going to be able to balance all of that, and in fact we ended up taking about half of it home. We skipped dessert, but they brought us some cute meringues with bacon caramel and crispy quinoa.
 

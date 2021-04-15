@@ -16,7 +16,7 @@ coverImage: "Moray-MIL-Potatoes.jpg"
 
 ## Cusco
 
-![MIL](images/Moray-MIL-MIL-300x266.jpg)
+{{< img "images/Moray-MIL-MIL.jpg" "300x266" "MIL" >}}
 
 MIL
 
@@ -28,7 +28,7 @@ We also knew that Virgilio Martínez had a restaurant in Cusco called MIL, and w
 
 ### Salt Ponds
 
-![Salt Terraces](images/Maras-Salt-Ponds-Salt-Terraces-300x112.jpg)
+{{< img "images/Maras-Salt-Ponds-Salt-Terraces.jpg" "300x112" "Salt Terraces" >}}
 
 Salt Terraces
 
@@ -38,7 +38,7 @@ The Maras salt ponds are a pre-Inca salt mine that is still in use today. You co
 
 ### Terraces
 
-![Moray terraces](images/Moray-Moray-terraces-300x277.jpg)
+{{< img "images/Moray-Moray-terraces.jpg" "300x277" "Moray terraces" >}}
 
 Moray terraces
 
@@ -48,7 +48,7 @@ After visiting the salt mines, we drove a short distance to Moray. Moray is a vi
 
 MIL is Virgilio Martínez’s Cusco restaurant. Either because it’s the low season, or because it’s not as centrally located, it was easy to get a table. We chose lunch, because it’s often more relaxed, you don’t go to bed uncomfortably full, and the light is better for photos. The complex is beautifully suited to the site, elegantly and simply blending with the terrain and landscape.
 
-![Experimental plants](images/Moray-MIL-Experimental-plants-300x224.jpg)
+{{< img "images/Moray-MIL-Experimental-plants.jpg" "300x224" "Experimental plants" >}}
 
 Experimental plants
 
@@ -56,7 +56,7 @@ When we arrived we were given a tour of the grounds and the other things going o
 
 As part of the tour they explained how they were exploring the different local varieties of Cacao, and there were two small electric stone mills grinding their own chocolate. I now want a stone mill, except that I think they probably weigh 20kg just by themselves.
 
-![Ferments and infusions](images/Moray-MIL-Ferments-and-infusions-252x300.jpg)
+{{< img "images/Moray-MIL-Ferments-and-infusions.jpg" "252x300" "Ferments and infusions" >}}
 
 Ferments and infusions
 
@@ -68,7 +68,7 @@ After the site tour we were seated in the restaurant. Similarly to [Central](htt
 
 #### Freeze dried potato (chuño), corn, wild uchucate, oca
 
-![Chuñyo](images/Moray-MIL-Chuñyo-300x130.jpg)
+{{< img "images/Moray-MIL-Chuñyo.jpg" "300x130" "Chuñyo" >}}
 
 Chuñyo
 
@@ -78,7 +78,7 @@ Chuño is naturally freeze dried potato, a technique invented centuries ago. The
 
 #### Cabuya nectar, lamb, kaniwa grain, white quinoa
 
-![Lamb tartare](images/Moray-MIL-Lamb-tartare-292x300.jpg)
+{{< img "images/Moray-MIL-Lamb-tartare.jpg" "292x300" "Lamb tartare" >}}
 
 Lamb tartare
 
@@ -88,7 +88,7 @@ The lamb tartare with cherimoya dressing was a great combination, fruity and uma
 
 #### Lupinus legume, pork belly, avocado, rocoto pepper
 
-![Lupinus bread](images/Moray-MIL-Lupinus-bread-300x281.jpg)
+{{< img "images/Moray-MIL-Lupinus-bread.jpg" "300x281" "Lupinus bread" >}}
 
 Lupinus bread
 
@@ -110,7 +110,7 @@ We can confirm that ducks and blue-green algae do live at extreme altitude, havi
 
 #### Potatoes, stems, chaco clay, chincho
 
-![Potatoes](images/Moray-MIL-Potatoes-300x217.jpg)
+{{< img "images/Moray-MIL-Potatoes.jpg" "300x217" "Potatoes" >}}
 
 Potatoes
 
@@ -130,7 +130,7 @@ This dessert was coca powder, frozen local cacao mucilage, and frozen chocolate 
 
 ### Virgilio Martínez
 
-![Virgilio Martínez](images/ORG_DSC02195-300x200.jpg)
+{{< img "images/ORG_DSC02195.jpg" "300x200" "Virgilio Martínez" >}}
 
 Virgilio Martínez
 
@@ -140,15 +140,15 @@ We’ve been seeking out Virgilio Martínez’s restaurants in Peru. He’s most
 
 MIL was awesome, everything we expected or wanted. The salt ponds and Moray are worth a visit. Having a driver was totally worth it.
 
-- ![Salt Terraces](images/Maras-Salt-Ponds-Salt-Terraces-1024x382.jpg)
+- {{< img "images/Maras-Salt-Ponds-Salt-Terraces.jpg" "1024x382" "Salt Terraces" >}}
     
     Salt Terraces
     
-- ![Salt Pools](images/Maras-Salt-Ponds-Salt-Pools-943x1024.jpg)
+- {{< img "images/Maras-Salt-Ponds-Salt-Pools.jpg" "943x1024" "Salt Pools" >}}
     
     Salt Pools
     
-- ![Moray terraces](images/Moray-Moray-terraces-1024x944.jpg)
+- {{< img "images/Moray-Moray-terraces.jpg" "1024x944" "Moray terraces" >}}
     
     Moray terraces
     
@@ -156,98 +156,98 @@ MIL was awesome, everything we expected or wanted. The salt ponds and Moray are 
     
     MIL
     
-- ![Drying herbs](images/Moray-MIL-Drying-herbs-765x1024.jpg)
+- {{< img "images/Moray-MIL-Drying-herbs.jpg" "765x1024" "Drying herbs" >}}
     
     Drying herbs
     
-- ![Experimental plants](images/Moray-MIL-Experimental-plants-1024x765.jpg)
+- {{< img "images/Moray-MIL-Experimental-plants.jpg" "1024x765" "Experimental plants" >}}
     
     Experimental plants
     
-- ![Beans and Quinoa](images/Moray-MIL-Beans-and-Quinoa-1024x770.jpg)
+- {{< img "images/Moray-MIL-Beans-and-Quinoa.jpg" "1024x770" "Beans and Quinoa" >}}
     
     Beans and Quinoa
     
-- ![Roots, Bark, and wood](images/Moray-MIL-Roots-Bark-and-wood-1024x765.jpg)
+- {{< img "images/Moray-MIL-Roots-Bark-and-wood.jpg" "1024x765" "Roots, Bark, and wood" >}}
     
     Roots, Bark, and wood
     
-- ![Tubers](images/Moray-MIL-Tubers-1024x907.jpg)
+- {{< img "images/Moray-MIL-Tubers.jpg" "1024x907" "Tubers" >}}
     
     Tubers
     
-- ![Corn and tree potato](images/Moray-MIL-Corn-and-tree-potato-765x1024.jpg)
+- {{< img "images/Moray-MIL-Corn-and-tree-potato.jpg" "765x1024" "Corn and tree potato" >}}
     
     Corn and tree potato
     
-- ![Cacao](images/Moray-MIL-Cacao-756x1024.jpg)
+- {{< img "images/Moray-MIL-Cacao.jpg" "756x1024" "Cacao" >}}
     
     Cacao
     
-- ![Cacao pods](images/Moray-MIL-Cacao-pods-1024x898.jpg)
+- {{< img "images/Moray-MIL-Cacao-pods.jpg" "1024x898" "Cacao pods" >}}
     
     Cacao pods
     
-- ![Grinding chocolate](images/Moray-MIL-Grinding-chocolate-1024x983.jpg)
+- {{< img "images/Moray-MIL-Grinding-chocolate.jpg" "1024x983" "Grinding chocolate" >}}
     
     Grinding chocolate
     
-- ![Solar dehydrator](images/Moray-MIL-Solar-dehydrator-908x1024.jpg)
+- {{< img "images/Moray-MIL-Solar-dehydrator.jpg" "908x1024" "Solar dehydrator" >}}
     
     Solar dehydrator
     
-- ![Ferments and infusions](images/Moray-MIL-Ferments-and-infusions-860x1024.jpg)
+- {{< img "images/Moray-MIL-Ferments-and-infusions.jpg" "860x1024" "Ferments and infusions" >}}
     
     Ferments and infusions
     
-- ![The table](images/Moray-MIL-The-table-866x1024.jpg)
+- {{< img "images/Moray-MIL-The-table.jpg" "866x1024" "The table" >}}
     
     The table
     
-- ![Chuñyo](images/Moray-MIL-Chuñyo-1024x445.jpg)
+- {{< img "images/Moray-MIL-Chuñyo.jpg" "1024x445" "Chuñyo" >}}
     
     Chuñyo
     
-- ![Kaniwa crisps](images/Moray-MIL-Kaniwa-crisps-1024x733.jpg)
+- {{< img "images/Moray-MIL-Kaniwa-crisps.jpg" "1024x733" "Kaniwa crisps" >}}
     
     Kaniwa crisps
     
-- ![Lamb tartare](images/Moray-MIL-Lamb-tartare-997x1024.jpg)
+- {{< img "images/Moray-MIL-Lamb-tartare.jpg" "997x1024" "Lamb tartare" >}}
     
     Lamb tartare
     
-- ![Pork belly](images/Moray-MIL-Pork-belly-1024x564.jpg)
+- {{< img "images/Moray-MIL-Pork-belly.jpg" "1024x564" "Pork belly" >}}
     
     Pork belly
     
-- ![Lupinus bread](images/Moray-MIL-Lupinus-bread-1024x960.jpg)
+- {{< img "images/Moray-MIL-Lupinus-bread.jpg" "1024x960" "Lupinus bread" >}}
     
     Lupinus bread
     
-- ![Rocoto and avocado](images/Moray-MIL-Rocoto-and-avocado-1024x944.jpg)
+- {{< img "images/Moray-MIL-Rocoto-and-avocado.jpg" "1024x944" "Rocoto and avocado" >}}
     
     Rocoto and avocado
     
-- ![Kale crisps with algae](images/Moray-MIL-Kale-crisps-with-algae-765x1024.jpg)
+- {{< img "images/Moray-MIL-Kale-crisps-with-algae.jpg" "765x1024" "Kale crisps with algae" >}}
     
     Kale crisps with algae
     
-- ![Duck](images/Moray-MIL-Duck-1013x1024.jpg)
+- {{< img "images/Moray-MIL-Duck.jpg" "1013x1024" "Duck" >}}
     
     Duck
     
-- ![Potatoes](images/Moray-MIL-Potatoes-1024x741.jpg)
+- {{< img "images/Moray-MIL-Potatoes.jpg" "1024x741" "Potatoes" >}}
     
     Potatoes
     
-- ![Kjolle](images/Moray-MIL-Kjolle-910x1024.jpg)
+- {{< img "images/Moray-MIL-Kjolle.jpg" "910x1024" "Kjolle" >}}
     
     Kjolle
     
-- ![Wild muña, tumbo](images/Moray-MIL-Wild-muña-tumbo-925x1024.jpg)
+- {{< img "images/Moray-MIL-Wild-muña-tumbo.jpg" "925x1024" "Wild muña, tumbo" >}}
     
     Wild muña, tumbo
     
-- ![Mashwa crisps](images/Moray-MIL-Mashwa-crisps-812x1024.jpg)
+- {{< img "images/Moray-MIL-Mashwa-crisps.jpg" "812x1024" "Mashwa crisps" >}}
     
     Mashwa crisps

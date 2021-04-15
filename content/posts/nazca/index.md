@@ -8,96 +8,96 @@ coverImage: "Nazca-La-araña.jpg"
 
 ## Nazca
 
-[![The man](images/Nazca-The-man-236x300.jpg)](images/Nazca-The-man.jpg)
+{{< img "images/Nazca-The-man.jpg" "236x300" "The man" >}}
 
 The man
 
 The Nazca “lines” are a group of lines and geoglyphs carved into the desert plain outside the city of Nazca. They’re about 2000 years old and were constructed by the Nazca culture (who also made some pretty awesome ceramics.) Most of them are lines and geometric shapes, but the most famous and most interesting ones seems to be images of animals and people. Monkey, condor, whale, person, hummingbird, parrot, tree, and some harder to interpret. We don’t really know what their significance is, but current consensus is that they had religious significance.
 
-![The Tree](images/Nazca-The-Tree-300x200.jpg)
+{{< img "images/Nazca-The-Tree.jpg" "300x200" "The Tree" >}}
 
 The Tree
 
 There’s a viewing tower by the side of the highway that lets you see three of the figures, but to really see them you have to fly over them. We signed up for the flight, and stayed overnight in Nazca city so we could be on the first flight in the morning. In theory the light would be better and the air less turbulent early in the day.
 
-![Our Nazca plane](images/Nazca-Charles-and-Debbie-300x264.jpg)
+{{< img "images/Nazca-Charles-and-Debbie.jpg" "300x264" "Our Nazca plane" >}}
 
 Our Nazca plane
 
 The flight was in an eight seater single engine high wing plane. I don’t know plane models… the takeoff and flight were relatively uneventful, but the view was as good as we’d hoped! I’ll let the photos speak for themselves. On final approach for landing we also got to see some of the Nazca aqueducts. They had a large and sophisticated underground hydraulic system bringing water to their agricultural areas over long distances and the surviving structures are impressive. I’m glad we went early since the tight turns in the small plane were plenty for my stomach!
 
-- [![Lineas y Geoglifos de Nasca](images/Nazca-Lineas-y-Geoglifos-de-Nasca-1024x683.jpg)](images/Nazca-Lineas-y-Geoglifos-de-Nasca-1024x683.jpg)
+- {{< img "images/Nazca-Lineas-y-Geoglifos-de-Nasca.jpg" "1024x683" "Lineas y Geoglifos de Nasca" >}}
     
     Lineas y Geoglifos de Nasca
     
-- [![The Tree](images/Nazca-The-Tree-1024x683.jpg)](images/Nazca-The-Tree-1024x683.jpg)
+- {{< img "images/Nazca-The-Tree.jpg" "1024x683" "The Tree" >}}
     
     The Tree
     
-- [![The Tree](images/Nazca-The-Tree-2-1024x683.jpg)](images/Nazca-The-Tree-2-1024x683.jpg)
+- {{< img "images/Nazca-The-Tree-2.jpg" "1024x683" "The Tree" >}}
     
     The Tree
     
-- [![The towers](images/Nazca-The-towers-1024x814.jpg)](images/Nazca-The-towers-1024x814.jpg)
+- {{< img "images/Nazca-The-towers.jpg" "1024x814" "The towers" >}}
     
     The towers
     
-- [![The Whale](images/Nazca-The-Whale-1024x811.jpg)](images/Nazca-The-Whale-1024x811.jpg)
+- {{< img "images/Nazca-The-Whale.jpg" "1024x811" "The Whale" >}}
     
     The Whale
     
-- [![The man](images/Nazca-The-man-806x1024.jpg)](images/Nazca-The-man-806x1024.jpg)
+- {{< img "images/Nazca-The-man.jpg" "806x1024" "The man" >}}
     
     The man
     
-- [![El Mono](images/Nazca-El-Mono-1024x697.jpg)](images/Nazca-El-Mono-1024x697.jpg)
+- {{< img "images/Nazca-El-Mono.jpg" "1024x697" "El Mono" >}}
     
     El Mono
     
-- [![El perro](images/Nazca-El-perro-1024x762.jpg)](images/Nazca-El-perro-1024x762.jpg)
+- {{< img "images/Nazca-El-perro.jpg" "1024x762" "El perro" >}}
     
     El perro
     
-- [![The plains](images/Nazca-The-plains-1024x683.jpg)](images/Nazca-The-plains-1024x683.jpg)
+- {{< img "images/Nazca-The-plains.jpg" "1024x683" "The plains" >}}
     
     The plains
     
-- [![The hummingbird](images/Nazca-The-hummingbird-1024x763.jpg)](images/Nazca-The-hummingbird-1024x763.jpg)
+- {{< img "images/Nazca-The-hummingbird.jpg" "1024x763" "The hummingbird" >}}
     
     The hummingbird
     
-- [![El condor](images/Nazca-El-condor-1024x953.jpg)](images/Nazca-El-condor-1024x953.jpg)
+- {{< img "images/Nazca-El-condor.jpg" "1024x953" "El condor" >}}
     
     El condor
     
-- [![A spiral](images/Nazca-A-spiral-1024x683.jpg)](images/Nazca-A-spiral-1024x683.jpg)
+- {{< img "images/Nazca-A-spiral.jpg" "1024x683" "A spiral" >}}
     
     A spiral
     
-- [![Phytomorphic glyphs](images/Nazca-Phytomorphic-glyphs-871x1024.jpg)](images/Nazca-Phytomorphic-glyphs-871x1024.jpg)
+- {{< img "images/Nazca-Phytomorphic-glyphs.jpg" "871x1024" "Phytomorphic glyphs" >}}
     
     Phytomorphic glyphs
     
-- [![La araña](images/Nazca-La-araña-1024x640.jpg)](images/Nazca-La-araña-1024x640.jpg)
+- {{< img "images/Nazca-La-araña.jpg" "1024x640" "La araña" >}}
     
     La araña
     
-- [![The Heron](images/Nazca-The-Heron-1024x683.jpg)](images/Nazca-The-Heron-1024x683.jpg)
+- {{< img "images/Nazca-The-Heron.jpg" "1024x683" "The Heron" >}}
     
     The Heron
     
-- [![The Pelican](images/Nazca-The-Pelican-1024x683.jpg)](images/Nazca-The-Pelican-1024x683.jpg)
+- {{< img "images/Nazca-The-Pelican.jpg" "1024x683" "The Pelican" >}}
     
     The Pelican
     
-- [![The parrot](images/Nazca-The-parrot-1024x875.jpg)](images/Nazca-The-parrot-1024x875.jpg)
+- {{< img "images/Nazca-The-parrot.jpg" "1024x875" "The parrot" >}}
     
     The parrot
     
-- [![Aqueducts](images/Nazca-Aqueducts-1024x579.jpg)](images/Nazca-Aqueducts-1024x579.jpg)
+- {{< img "images/Nazca-Aqueducts.jpg" "1024x579" "Aqueducts" >}}
     
     Aqueducts
     
-- [![Our Nazca plane](images/Nazca-Charles-and-Debbie-1024x900.jpg)](images/Nazca-Charles-and-Debbie-1024x900.jpg)
+- {{< img "images/Nazca-Charles-and-Debbie.jpg" "1024x900" "Our Nazca plane" >}}
     
     Our Nazca plane

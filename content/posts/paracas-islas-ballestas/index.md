@@ -13,7 +13,7 @@ tags:
 coverImage: "Paracas-Islas-Ballestas-Humboldt-penguins.jpg"
 ---
 
-![Islas Ballestas](images/Paracas-Islas-Ballestas-Islas-Ballestas-1-300x200.jpg)
+{{< img "images/Paracas-Islas-Ballestas-Islas-Ballestas-1.jpg" "300x200" "Islas Ballestas" >}}
 
 Islas Ballestas
 
@@ -23,7 +23,7 @@ We had a great time. I was too skeptical.
 
 ## Cactus geoglyph
 
-![Cactus geoglyph](images/Paracas-Islas-Ballestas-Cactus-geoglyph-186x300.jpg)
+{{< img "images/Paracas-Islas-Ballestas-Cactus-geoglyph.jpg" "186x300" "Cactus geoglyph" >}}
 
 Cactus geoglyph
 
@@ -33,7 +33,7 @@ On the way out you pass a geoglyph that dates back to the Paracas culture. This 
 
 ### Penguins
 
-![Humboldt penguins](images/Paracas-Islas-Ballestas-Humboldt-penguins-300x206.jpg)
+{{< img "images/Paracas-Islas-Ballestas-Humboldt-penguins.jpg" "300x206" "Humboldt penguins" >}}
 
 Humboldt penguins
 
@@ -41,7 +41,7 @@ The first thing we saw as we approached the islands, was a curious sea lion in t
 
 ### Sea lions and seals
 
-![Sea lion](images/Paracas-Islas-Ballestas-Sea-lion-300x200.jpg)
+{{< img "images/Paracas-Islas-Ballestas-Sea-lion.jpg" "300x200" "Sea lion" >}}
 
 Sea lion
 
@@ -49,7 +49,7 @@ There are two kinds of seals living on the islands, fur seals, and sea lions. We
 
 ### Other birds
 
-![Inca Tern](images/Paracas-Islas-Ballestas-Inca-Tern-300x93.jpg)
+{{< img "images/Paracas-Islas-Ballestas-Inca-Tern.jpg" "300x93" "Inca Tern" >}}
 
 Inca Tern
 
@@ -57,7 +57,7 @@ The are also Peruvian boobies (Sula variegata, “piquero”), Peruvian pelicans
 
 ## Guano
 
-![Guano dock](images/Paracas-Islas-Ballestas-Guano-dock-300x235.jpg)
+{{< img "images/Paracas-Islas-Ballestas-Guano-dock.jpg" "300x235" "Guano dock" >}}
 
 Guano dock
 
@@ -67,66 +67,66 @@ These islands were once covered in guano several meters deep. Mostly produced by
 
 I’m glad we went, we got to see a lot of fauna up close, it didn’t smell as bad as I’d feared, and it was well worth the time and minimal expense.
 
-- [![Cactus geoglyph](images/Paracas-Islas-Ballestas-Cactus-geoglyph-636x1024.jpg)](images/Paracas-Islas-Ballestas-Cactus-geoglyph-636x1024.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Cactus-geoglyph.jpg" "636x1024" "Cactus geoglyph" >}}
     
     Cactus geoglyph
     
-- [![Humboldt penguins](images/Paracas-Islas-Ballestas-Humboldt-penguins-1024x704.jpg)](images/Paracas-Islas-Ballestas-Humboldt-penguins-1024x704.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Humboldt-penguins.jpg" "1024x704" "Humboldt penguins" >}}
     
     Humboldt penguins
     
-- [![Sea lions](images/Paracas-Islas-Ballestas-Sea-lions-1024x537.jpg)](images/Paracas-Islas-Ballestas-Sea-lions-1024x537.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Sea-lions.jpg" "1024x537" "Sea lions" >}}
     
     Sea lions
     
-- [![Peru pelicans](images/Paracas-Islas-Ballestas-Peru-pelicans-1024x955.jpg)](images/Paracas-Islas-Ballestas-Peru-pelicans-1024x955.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Peru-pelicans.jpg" "1024x955" "Peru pelicans" >}}
     
     Peru pelicans
     
-- [![Peru pelicans](images/Paracas-Islas-Ballestas-Peru-pelicans-2-1024x806.jpg)](images/Paracas-Islas-Ballestas-Peru-pelicans-2-1024x806.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Peru-pelicans-2.jpg" "1024x806" "Peru pelicans" >}}
     
     Peru pelicans
     
-- [![Inca Tern](images/Paracas-Islas-Ballestas-Inca-Tern-1-1024x566.jpg)](images/Paracas-Islas-Ballestas-Inca-Tern-1-1024x566.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Inca-Tern-1.jpg" "1024x566" "Inca Tern" >}}
     
     Inca Tern
     
-- [![Inca Tern](images/Paracas-Islas-Ballestas-Inca-Tern-1024x319.jpg)](images/Paracas-Islas-Ballestas-Inca-Tern-1024x319.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Inca-Tern.jpg" "1024x319" "Inca Tern" >}}
     
     Inca Tern
     
-- [![Islas Ballestas](images/Paracas-Islas-Ballestas-Islas-Ballestas-1-1024x683.jpg)](images/Paracas-Islas-Ballestas-Islas-Ballestas-1-1024x683.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Islas-Ballestas-1.jpg" "1024x683" "Islas Ballestas" >}}
     
     Islas Ballestas
     
-- [![Red Crabs](images/Paracas-Islas-Ballestas-Red-Crabs-985x1024.jpg)](images/Paracas-Islas-Ballestas-Red-Crabs-985x1024.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Red-Crabs.jpg" "985x1024" "Red Crabs" >}}
     
     Red Crabs
     
-- [![Peruvian booby](images/Paracas-Islas-Ballestas-_-1024x710.jpg)](images/Paracas-Islas-Ballestas-_-1024x710.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-_.jpg" "1024x710" "Peruvian booby" >}}
     
     Peruvian booby
     
-- [![Peruvian booby](images/Paracas-Islas-Ballestas-Peruvian-booby-1024x804.jpg)](images/Paracas-Islas-Ballestas-Peruvian-booby-1024x804.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Peruvian-booby.jpg" "1024x804" "Peruvian booby" >}}
     
     Peruvian booby
     
-- [![Sea lion](images/Paracas-Islas-Ballestas-Sea-lion-1024x683.jpg)](images/Paracas-Islas-Ballestas-Sea-lion-1024x683.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Sea-lion.jpg" "1024x683" "Sea lion" >}}
     
     Sea lion
     
-- [![Guano facility](images/Paracas-Islas-Ballestas-Reserva-nacional-islas-ballestas-1024x445.jpg)](images/Paracas-Islas-Ballestas-Reserva-nacional-islas-ballestas-1024x445.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Reserva-nacional-islas-ballestas.jpg" "1024x445" "Guano facility" >}}
     
     Guano facility
     
-- [![Guano dock](images/Paracas-Islas-Ballestas-Guano-dock-1024x803.jpg)](images/Paracas-Islas-Ballestas-Guano-dock-1024x803.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Guano-dock.jpg" "1024x803" "Guano dock" >}}
     
     Guano dock
     
-- [![Islas Ballestas](images/Paracas-Islas-Ballestas-Islas-Ballestas-1024x607.jpg)](images/Paracas-Islas-Ballestas-Islas-Ballestas-1024x607.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Islas-Ballestas.jpg" "1024x607" "Islas Ballestas" >}}
     
     Islas Ballestas
     
-- [![Fishing boats](images/Paracas-Islas-Ballestas-Fishing-boats-1024x541.jpg)](images/Paracas-Islas-Ballestas-Fishing-boats-1024x541.jpg)
+- {{< img "images/Paracas-Islas-Ballestas-Fishing-boats.jpg" "1024x541" "Fishing boats" >}}
     
     Fishing boats
