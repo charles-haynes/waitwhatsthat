@@ -33,7 +33,6 @@ usually 8 or 9pm.
 ### Sausage Sandwich
 
 {{< img "images/La-Paz-Mercado-Lanza-Chorizo-and-fixings.jpg" "276x300" "Chorizo and fixings" >}}
-
 Next up was _Doña Elvira's Sándwich de Chorizo_ that is a handmade
 sausage of four meats (beef, pork, alpaca, and I'm not sure what),
 served on a fresh bun. Sadly we arrived as they were cleaning up, but
@@ -52,7 +51,6 @@ sauces (mayonnaise and/or mustard).
 ### Braised Tripe
 
 {{< img "images/La-Paz-Tripe-stand.jpg" "300x191" "Tripe stand" >}}
-
 _Tripa_ is beef tripe cooked in a giant enameled metal pan over a gas
 fire. It ends up partially fried and partially braised and entirely
 delicious. Succulent savoury umami juices coating slippery chewy meaty
@@ -64,7 +62,6 @@ soak up excess alcohol. We like it even without the alcohol.
 ### Beef Heart
 
 {{< img "images/La-Paz-Anticuchos-stand.jpg" "271x300" "Anticuchos stand" >}}
-
 Bolivian _anticuchos_ (grilled beef heart) are smaller and thinner
 than Peruvian _anticuchos._ The most famous place to get _anticuchos_
 in La Paz is at _mercado "Las Velas."_ We visited, but our host had a
@@ -76,7 +73,6 @@ were so full we couldn't eat anything more, so that's also on the list
 for a return visit.
 
 {{< img "images/La-Paz-Sopocachi-On-the-grill.jpg" "300x232" "On the grill" >}}
-
 Apparently the anticuchos cart near where we're staying is quite
 famous! Whenever I mentioned _"anticuchos"_ and _"Sopocachi"_ (our
 neighborhood) people all said to visit this cart. So we did. It's a
@@ -98,7 +94,6 @@ of fun.
 ### Braised Kidneys
 
 {{< img "images/La-Paz-Kidneys-3.jpg" "204x300" "Kidneys" >}}
-
 _Riñoncitos al jugo_ or braised kidneys are another classic late night
 after club snack. During an earlier discussion of _anticuchos_ we had
 asked about other kinds of offal. Once Coral knew we liked organ meats
@@ -111,7 +106,6 @@ with a deep fried egg, shredded carrot, and an optional spicy salsa.
 ### _Api_ and _Pastel_
 
 {{< img "images/La-Paz-Api-2.jpg" "225x300" "Api" >}}
-
 We were near the traditional Christmas Fair fairgrounds, where they
 sell _api y pastel._ _Api_ is a traditional drink of the Bolivian
 Andes, it's made with purple corn, sugar, cinnamon and cloves. It
@@ -126,7 +120,6 @@ we're staying so we'll have to give them a visit.
 ### Salteñas
 
 {{< img "images/La-Paz-Salteñas-4.jpg" "300x180" "Salteñas" >}}
-
 Besides the places we visited on our tour, we see lots of people
 selling _sateñas_ on the street, and lots of __salteña___rías_ in the
 neighborhood. A _salteña_ is a small meat filled pastry, similar to an
@@ -147,29 +140,13 @@ pretty good! It had all the usual ingredients, fish, seafood, _choclo_
 Wasn't earth shattering but it was tasty and we didn't suffer any ill
 effects from eating "raw" fish on the street.
 
-- {{< img "images/La-Paz-Pork-Leg.jpg" "1024x767" "Pork Leg" >}}
-- {{< img "images/La-Paz-Escabeche.jpg" "1024x768" "Escabeche" >}}
-- {{< img "images/La-Paz-Ají.jpg" "1024x885" "Ají" >}}
-- {{< img "images/La-Paz-The-best-chola-sandwich.jpg" "724x1024" "The best chola sandwich" >}}
-- {{< img "images/La-Paz-Sandwich-stand.jpg" "1024x770" "Sandwich stand" >}}
-- {{< img "images/La-Paz-Tripa.jpg" "1024x573" "Tripa" >}}
-- {{< img "images/La-Paz-Tripa-2.jpg" "767x1024" "Tripa" >}}
-- {{< img "images/La-Paz-Tripe-stand.jpg" "1024x653" "Tripe stand" >}}
-- {{< img "images/La-Paz-Anticuchos-stand.jpg" "925x1024" "Anticuchos stand" >}}
-- {{< img "images/La-Paz-Beef-and-potatoes.jpg" "1000x1024" "Beef and potatoes" >}}
-- {{< img "images/La-Paz-Kidneys.jpg" "1024x541" "Kidneys" >}}
-- {{< img "images/La-Paz-Kidneys-2.jpg" "844x1024" "Kidneys" >}}
-- {{< img "images/La-Paz-Kidneys-3.jpg" "696x1024" "Kidneys" >}}
-- {{< img "images/La-Paz-Api.jpg" "553x1024" "Api" >}}
-- {{< img "images/La-Paz-Api-2.jpg" "767x1024" "Api" >}}
-- {{< img "images/La-Paz-Salteñas.jpg" "1024x767" "Salteñas" >}}
-- {{< img "images/La-Paz-Salteñas-2.jpg" "1024x905" "Salteñas" >}}
-- {{< img "images/La-Paz-Salteñas-3.jpg" "1024x827" "Salteñas" >}}
-- {{< img "images/La-Paz-Salteñas-4.jpg" "1024x614" "Salteñas" >}}
-- {{< img "images/La-Paz-Mercado-Lanza-Chorizo-and-fixings.jpg" "941x1024" "Chorizo and fixings" >}}
-- {{< img "images/La-Paz-Sandwich-Doña-Elvira-Sandwich-de-Chorizo.jpg" "1024x921" "Sandwich de Chorizo" >}}
-- {{< img "images/La-Paz-Sandwich-Doña-Elvira-Making-sandwiches.jpg" "1022x1024" "Making sandwiches" >}}
-- {{< img "images/La-Paz-Sopocachi-Flaming-Anticuchos.jpg" "862x1024" "Flaming Anticuchos" >}}
-- {{< img "images/La-Paz-Sopocachi-On-the-grill.jpg" "1024x793" "On the grill" >}}
-- {{< img "images/La-Paz-Sopocachi-Raw-Anticuchos.jpg" "1024x683" "Raw Anticuchos" >}}
-- {{< img "images/La-Paz-Sopocachi-Anticuchos.jpg" "1024x683" "Anticuchos" >}}
+{{< gallery
+       match="images/*"
+       resizeOptions="150x150"
+       rowHeight="150"
+       lastRow="nojustify"
+       margin="5"
+       showExif=true
+       previewType="blur"
+       embedPreview="true"
+>}}
