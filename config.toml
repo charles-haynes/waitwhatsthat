@@ -2,7 +2,7 @@ baseURL = "http://hugo.ceh.bz/"
 languageCode = "en-us"
 title = "Wait What's That?"
 # theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke", "github.com/mfg92/hugo-shortcode-gallery"]
 # resourceDir = "../resources"
 
 # DefaultContentLanguage = "en"
@@ -53,3 +53,4 @@ enableRobotsTXT = true
   # content. To do this, you must use the post_content_classes
   # parameter
   recent_posts_number = 6
+  galleryLoadJQuery = true
