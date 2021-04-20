@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 date: 2021-04-13T09:04:29Z
-draft: true
 ---
 Hi There,
 

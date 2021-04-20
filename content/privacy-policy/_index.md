@@ -1,7 +1,6 @@
 ---
 title: "Privacy Policy"
 date: 2021-04-13T08:39:57Z
-draft: true
 ---
 ## Who we are
 

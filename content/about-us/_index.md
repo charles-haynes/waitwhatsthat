@@ -1,7 +1,6 @@
 ---
 title: "About Us"
 date: 2021-04-13T07:42:32Z
-draft: true
 ---
 We’re a couple in our 50s who’ve given up a fixed address and our
 "things" and are travelling the world. We started by each picking
