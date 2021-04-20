@@ -154,9 +154,9 @@ Here are two videos of condors flying. The audio has a lot of wind
 noise so I've muted them, and they're not particularly well edited or
 stabilised. But condors! Flying!
 
-{{/* < video "condors from above" > */}}
+{{< video src="video/C0004-2.mp4" type="video/mp4" alt="condors from above" >}}
 
-{{/* < video "condors from below" > */}}
+{{< video src="video/C0005-2.mp4" type="video/mp4" alt="condors from below" >}}
 
 {{< gallery
        match="images/*"
