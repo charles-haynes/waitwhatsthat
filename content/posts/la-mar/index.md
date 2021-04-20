@@ -21,14 +21,14 @@ past a display of fresh whole fish on ice, which piqued our interest.
 
 We decided to have their ceviche sampler, which had a classic ceviche
 of Peruvian sea bass (not Patagonian toothfish, but a kind of perch),
-a mixto of fish and seafood in _leche de tigre_ (a slightly thinner,
-less acidic marinade that is super popular here), and a _nikei_
- (Peruvian Japanese) style with bonito and tamarind.
+a mixto of fish and seafood in _leche de tigre_ (a slightly thinner,
+less acidic marinade that is super popular here), and a _nikei_
+ (Peruvian Japanese) style with bonito and tamarind.
 
-Finally we got a special _cheviche de conchas negras._ Cheviche de
-conchas negras is a shellfish ceviche made from mangrove
+Finally we got a special _cheviche de conchas negras._ Cheviche de
+conchas negras is a shellfish ceviche made from mangrove
 cockles. Mangrove cockles are being overfished, but La Mar claims to
-source them sustainably. We also had to have Peruvian _uni_ (sea
+source them sustainably. We also had to have Peruvian _uni_ (sea
 urchin roe.) Uni from Peru is some of the best in the world, and is
 prized in top end sushi restaurants.The uni was as delicious as
 expected, sweet and briny. The three ceviches were also very
@@ -45,7 +45,7 @@ said it was a "basa" but when it came it clearly wasn't a basa so I
 must have mis-heard. I had noticed they had both a wood fired oven and
 a charcoal grill. Our waiter suggested they cook the fish on the
 plancha, but I asked if they could charcoal grill it and they did. It
-was amazing. They put a chimichurri like herbal  rub on it, and it was
+was amazing. They put a chimichurri like herbal rub on it, and it was
 tender, moist, and flaky. I picked out all the succulent bits from the
 head and tried to parse it with my fork. The waitress noticed, and not
 only brought a setup of the proper utensils, but kindly boned it out

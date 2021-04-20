@@ -19,7 +19,7 @@ shops and stands are run by women.
 
 {{< img "images/La-Paz-Pork-Leg.jpg" "300x225" "Pork Leg" >}}
 First stop was a roast pork sandwich place run by two sisters and
-billed as _"El Mejor Sándwich De Chola De La Paz "Doña Paula"_ (The
+billed as _"El Mejor Sándwich De Chola De La Paz 'Doña Paula'"_ (The
 best Chola Sandwich in La Paz "Doña Paula") This same stand has been
 in operation for 53 years, and they only serve one thing. A roast pork
 leg sandwich called a _sándwich de la chola_. Cholas are native Aymara
@@ -121,7 +121,7 @@ we're staying so we'll have to give them a visit.
 
 {{< img "images/La-Paz-Salteñas-4.jpg" "300x180" "Salteñas" >}}
 Besides the places we visited on our tour, we see lots of people
-selling _sateñas_ on the street, and lots of __salteña___rías_ in the
+selling _sateñas_ on the street, and lots of _salteñarías_ in the
 neighborhood. A _salteña_ is a small meat filled pastry, similar to an
 _empanada_. The filling can be nearly anything, chicken, beef, pork,
 cheese, spicy, or not spicy. They're usually quite juicy, and are
