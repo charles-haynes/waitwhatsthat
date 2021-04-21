@@ -1,4 +1,4 @@
-baseURL = "http://hugo.ceh.bz/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Wait What's That?"
 # theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
