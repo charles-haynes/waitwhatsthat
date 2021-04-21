@@ -1,0 +1,3 @@
+resampleFilter = "CatmullRom"
+# resampleFilter = "Lanczos "
+quality = 90

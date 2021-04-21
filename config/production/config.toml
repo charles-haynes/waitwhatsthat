@@ -1,0 +1,8 @@
+baseURL = "https://waitwhatsthat.com"
+buildDrafts = false
+enableRobotsTXT = true
+languageCode = "en-us"
+publishDir = "public"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke", "github.com/mfg92/hugo-shortcode-gallery"]
+timeout = 60000
+title = "Wait What's That?"
