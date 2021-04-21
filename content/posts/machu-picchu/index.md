@@ -70,7 +70,7 @@ restaurants but nothing too special. We picked restaurants for the
 views and that worked out for us. There’s supposed to be a hot spring
 in town as well, but after reading the reviews we decided to skip it.
 
-![Pano](images/R0010293_20181216135426.jpg "R0010293_20181216135426")
+{{< pano src="images/R0010293_20181216135426.jpg" >}}
 
 We had decided to splurge a little bit and stay at a fancier hotel in
 a room with a view of the river. I’m really glad we did. The views
