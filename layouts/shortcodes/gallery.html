@@ -130,7 +130,7 @@ Ordinal: {{ .Ordinal}}
 
 						{{ if (eq $previewType "blur") }}
 							{{ $preview_b := ($original.Fit ("32x32 q70 box jpg")) }}
-							style="filter: blur(5px);"
+							style="filter: blur(3px);"
 							{{ if $embedPreview }}
 								src="data:image/jpeg;base64,{{ $preview_b.Content | base64Encode }}"
 							{{ else }}
