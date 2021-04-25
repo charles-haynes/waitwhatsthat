@@ -4,6 +4,13 @@ enableRobotsTXT = true
 languageCode = "en-us"
 publishDir = "public"
 SectionPagesMenu = "main"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke", "github.com/mfg92/hugo-shortcode-gallery"]
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 timeout = 60000
 title = "Wait What's That?"
+
+[module]
+[[module.imports]]
+  path="github.com/ApoorvSaxena/lozad.js"
+[[module.imports.mounts]]
+  source = "dist/lozad.js"
+  target = "assets/lozad.js"
