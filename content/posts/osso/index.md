@@ -130,13 +130,4 @@ in english, and lots of homage to the US steak house.
 
 Osso deserves every bit of it's outsized reputation. It's worth a trip out to La Molina.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

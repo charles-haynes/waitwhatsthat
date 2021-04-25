@@ -56,13 +56,4 @@ for us at the table!
 La Mar is a great place, though not cheap. If I were looking for top
 end seafood in Lima, I'd head here.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

@@ -44,13 +44,4 @@ help yourself to as many as you like.
 The menu here is as inventive as any of the finest restaurants in
 Lima, but the humor and love are unmatched.
 
-{{< gallery
-      match="images/*"
-      resizeOptions="150x150"
-      rowHeight="150"
-      lastRow="nojustify"
-      margin="5"
-      showExif=true
-      previewType="blur"
-      embedPreview="true"
->}}
+{{< gallery >}}

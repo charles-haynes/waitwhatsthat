@@ -33,13 +33,4 @@ the less well known brown and white cousin. The macambo was by far the
 more interesting of the two, including a sweet savory salty smoky
 plantain and shoyu!
 
-{{< gallery
-      match="images/*"
-      resizeOptions="150x150"
-      rowHeight="150"
-      lastRow="nojustify"
-      margin="5"
-      showExif=true
-      previewType="blur"
-      embedPreview="true"
->}}
+{{< gallery >}}

@@ -59,13 +59,4 @@ K'allampa mushroom.
 We really enjoyed IK, very satisfying on all levels, especially
 considering how reasonable the price was for the level of dining.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

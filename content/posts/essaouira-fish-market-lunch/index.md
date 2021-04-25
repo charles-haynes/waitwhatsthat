@@ -18,13 +18,4 @@ They bring you plates of fishes to eat. We had grilled sardines, shrimp and asso
 {{< img "images/img_20180807_1617512624332652928841919.jpg" "300x300" "Table of fish" >}}
 On the side we had bread, frites, olives, chakchouka, limes and all for two-hundred dirhams per person. We are so stuffed!
 
-{{< gallery
-      embedPreview="true"
-      lastRow="nojustify"
-      margin="5"
-      match="images/*"
-      previewType="blur"
-      resizeOptions="150x150"
-      rowHeight="150"
-      showExif=true
->}}
+{{< gallery >}}

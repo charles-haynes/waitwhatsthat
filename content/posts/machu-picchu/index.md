@@ -155,13 +155,4 @@ logistically. If you come to Peru you really should go to Machu
 Picchu. Just don’t forget to do all the other cool things too! (Like
 eat food in Lima, and see condors in Colca Canyon.)
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

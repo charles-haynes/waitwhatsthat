@@ -38,13 +38,4 @@ families, couples, backpackers, businesspeople, tourists and
 locals. It will be one of the first places we go any time we come back
 to Lima. Did I mention they have amazing bread?
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

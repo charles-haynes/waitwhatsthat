@@ -158,13 +158,4 @@ stabilised. But condors! Flying!
 
 {{< video src="video/C0005-2.mp4" type="video/mp4" alt="condors from below" >}}
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

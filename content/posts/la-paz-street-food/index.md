@@ -140,13 +140,4 @@ pretty good! It had all the usual ingredients, fish, seafood, _choclo_
 Wasn't earth shattering but it was tasty and we didn't suffer any ill
 effects from eating "raw" fish on the street.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

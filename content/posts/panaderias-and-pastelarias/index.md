@@ -104,13 +104,4 @@ the space. They have cookies and pastries as well, the morning bun is
 particularly good, but the bread is so good it will make you forget
 the sweets.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

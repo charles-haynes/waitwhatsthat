@@ -79,13 +79,4 @@ runs to over 12 pages and includes a table of contents.
 The food is great, the service is very friendly and helpful, the view
 is nice, and the sense of history is incomparable.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

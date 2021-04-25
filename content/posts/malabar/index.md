@@ -39,13 +39,4 @@ refreshingly crunchy touch.
 The staff was quite friendly and helpful with good recommendations for
 the rest of our trip. I'd happily go again.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

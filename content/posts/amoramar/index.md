@@ -74,13 +74,4 @@ sweet. Amoramar needs to raise their dessert game...
 Overall the setting was excellent, the dishes were well done but not
 particularly innovative. The suckling pig looked great though!
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

@@ -93,13 +93,4 @@ chocolate shell and sitting on a chocolate twig nest.
 I'm glad we did it, the third generation ceviche was a standout. The
 desserts were fun too.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

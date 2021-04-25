@@ -105,13 +105,4 @@ I'm not going to argue with a 100 year old tradition.
 Great fresh fish treated with respect, airy green outdoorsy space,
 upscale but not fussy or pretentious.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

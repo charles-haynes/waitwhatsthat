@@ -199,13 +199,4 @@ picture with us.
 MIL was awesome, everything we expected or wanted. The salt ponds and
 Moray are worth a visit. Having a driver was totally worth it.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

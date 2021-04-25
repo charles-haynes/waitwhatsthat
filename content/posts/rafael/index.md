@@ -54,13 +54,4 @@ Rafael serves an delicious combination of Peruvian ingredients with
 European technique and flair. The service is friendly and
 helpful. Overall it's comfortable fine dining environment.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

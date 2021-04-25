@@ -32,13 +32,4 @@ time we came we had their sampler, which includes chicken gizzards,
 tripe stew, blood stew, and lung. It makes me want to try cooking some
 of these dishes myself!
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

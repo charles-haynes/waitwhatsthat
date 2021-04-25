@@ -45,13 +45,4 @@ beans, pineapple, squash, and chocolate. As it turns out, there are
 even more things that have so far escaped the world's attention - and
 they're delicious.
 
-{{< gallery
-      embedPreview="true"
-      lastRow="nojustify"
-      margin="5"
-      match="images/*"
-      previewType="blur"
-      resizeOptions="150x150"
-      rowHeight="150"
-      showExif=true
->}}
+{{< gallery >}}

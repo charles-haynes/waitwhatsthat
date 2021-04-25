@@ -25,13 +25,4 @@ have two varieties, filled (_relleno_) or unfilled, and three flavours
 of filled, chocolate, vanilla, or _dulce de leche_. Six plain churros
 or one filled churro for 6 soles. Less than 2 US dollars.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

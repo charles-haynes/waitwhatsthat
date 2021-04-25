@@ -57,13 +57,4 @@ delicious!
 I love the concept, I like the decor, the food is good, and the
 sweetbreads are great!
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

@@ -36,13 +36,4 @@ areas over long distances and the surviving structures are
 impressive. I’m glad we went early since the tight turns in the small
 plane were plenty for my stomach!
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

@@ -54,13 +54,4 @@ I really enjoyed Kjolle. It's easier to get in to, the food is just as
 exciting and technically excellent as Central, and it's a warm
 welcoming place.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

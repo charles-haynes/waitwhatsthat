@@ -87,13 +87,4 @@ little bit past brown though perhaps that was on purpose?
 Osaka feels like a Japanese restaurant, but the Peruvian influence is
 ubiquitous. It was a joy to experience.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

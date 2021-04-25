@@ -89,13 +89,4 @@ I’m glad we went, we got to see a lot of fauna up close, it didn’t
 smell as bad as I’d feared, and it was well worth the time and minimal
 expense.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}

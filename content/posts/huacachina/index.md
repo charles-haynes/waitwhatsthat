@@ -38,13 +38,4 @@ Huacachina is a nice place to stop if you want to try sliding down the
 giant dunes, or if you want to see what may be the only natural desert
 oasis in the Americas, but otherwise there’s not a lot there.
 
-{{< gallery
-       match="images/*"
-       resizeOptions="150x150"
-       rowHeight="150"
-       lastRow="nojustify"
-       margin="5"
-       showExif=true
-       previewType="blur"
-       embedPreview="true"
->}}
+{{< gallery >}}
