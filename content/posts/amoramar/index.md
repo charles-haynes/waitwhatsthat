@@ -17,11 +17,11 @@ _parrillero_ is roasting a _cochinillo lechal_ (suckling piglet.)
 
 ### The food
 
-The menu is modern Peruvian with sections for _Entradas, Wok, Pesca,
+The menu is modern Peruvian with sections for _Entradas, Wok, Pesca,
 Granja,_ and _"Para Endulzar"_ We decided to have two entrees, a fish,
 and a dessert.
 
-They started by bringing us an _abreboca_ (amuse/appetiser) of pork
+They started by bringing us an _abreboca_ (amuse/appetiser) of pork
 and plantain crisp with an asian salsa. It was tasty and helped make
 up for our decision to not have the roast piglet.
 
@@ -29,11 +29,11 @@ up for our decision to not have the roast piglet.
 
 {{< img "images/Lima-Amoramar-Ceviche.jpg" "300x124" "Tiradito" >}}
 We had seen _Tiradito Grana Padano_ on the menu and had been bemused
-and intrigued. A tiradito of cheese? Probably not. A tiradito _with_
+and intrigued. A tiradito of cheese? Probably not. A tiradito _with_
 cheese? That almost as strange. How can you pair raw fish with cheese?
-Ok, we had to try it. It was a tiradito of seared scallop and white
-fish dressed with a _leche de tigre_ ("tiger's milk" juice for
-ceviche) emulsion, garnished with radish, avocado  puree, and grana
+Ok, we had to try it. It was a tiradito of seared scallop and white
+fish dressed with a _leche de tigre_ ("tiger's milk" juice for
+ceviche) emulsion, garnished with radish, avocado  puree, and grana
 padano crisps. It actually worked pretty well.
 
 #### Grilled scallops
@@ -46,7 +46,7 @@ extraordinary, but grilled scallops are always a treat.
 #### Paiche
 
 {{< img "images/Lima-Amoramar-Paiche.jpg" "300x215" "Paiche" >}}
-We've been seeing _paiche_ on menus a lot in Lima. It's the second
+We've been seeing _paiche_ on menus a lot in Lima. It's the second
 largest fresh water fish in the world. Mature paiche can be over 3
 metres long, and over 250 kg. Native to the Amazon river they are
 under pressure in the wild, but have been successfully farmed in

@@ -33,8 +33,8 @@ shops.
 The ceviche may be the best we've had. We had both a ceviche
 "Pucusana" and a tiradito "Nikkei." Pucusana is a fishing village
 south of Lima, we plan to stop there on our way south, and the
-Pucusana ceviche had _pejerrey_ (Argentine Silverside), _erizo_ (sea
-urchin - uni), and _conchita_ (scallops) in a mild sauce and including
+Pucusana ceviche had _pejerrey_ (Argentine Silverside), _erizo_ (sea
+urchin - uni), and _conchita_ (scallops) in a mild sauce and including
 ripe avocado. The pejerrey is a mild silvery fish and the light
 ceviche was perfect for it. Anything stronger would have overpowered
 it. We love erizo and order it every chance we get, but it's similarly
@@ -52,7 +52,7 @@ serving.
 
 I didn't realize that Nobu Matsuhisa (_that_ Nobu) first went to Peru
 after leaving Japan 45 years ago. While here, the story goes, he
-invented _tiradito_ when a guest asked for ceviche without onions. So
+invented _tiradito_ when a guest asked for ceviche without onions. So
 all tiradito is in some sense "_nikkei._" The "nikkei" tiradito at El
 Mercado was yellowfin tuna with a mild sweet soy and sesame oil sauce
 garnished with an avocado fan. Not flashy, just delicious.
@@ -62,7 +62,7 @@ garnished with an avocado fan. Not flashy, just delicious.
 {{< img "images/Lima-El-Mercado-Empanadas-2.jpg" "300x258" "Empanadas \"porteños\"" >}}
 _Empanadas Porteñas_ ("port" empanadas) are presumably called that
 because they're filled with shrimp and squid rather than the
-traditional beef. These should probably be called _empanaditos_
+traditional beef. These should probably be called _empanaditos_
 because they're small and cute. Lima loves its empanadas, every street
 vendor and food stall will sell you an empanada of chicken or meat of
 uncertain provenance, but these seafood empanadas were just fine.
@@ -72,10 +72,10 @@ uncertain provenance, but these seafood empanadas were just fine.
 {{< img "images/Lima-El-Mercado-Conchas.jpg" "300x226" "Conchas" >}}
 While we had quickly decided on ceviche and tiradito, I strained my
 limited Spanish and asked our waiter for a recommendation for a third
-dish. He suggested grilled _conchas_ (scallops). I had earlier seen
+dish. He suggested grilled _conchas_ (scallops). I had earlier seen
 the impressive wood fired grill so we were set. We had a combo of
-three style _griego_ ("greek") with pisco butter, yellow _ají_ pepper,
-and oregano; "reggiana" with brown butter, parmesan, and garlic; and
+three style _griego_ ("greek") with pisco butter, yellow _ají_ pepper,
+and oregano; "reggiana" with brown butter, parmesan, and garlic; and
 "aztec" with jalapeño butter and mezcal. The scallops were perfectly
 grilled, still juicy and tender with the roe still soft but with nice
 browned grill flavors. The flavors of the scallops dominated, with the
@@ -86,9 +86,9 @@ scallops.
 ### Dessert
 
 {{< img "images/Lima-El-Mercado-Limeña-suspira.jpg" "300x104" "Limeña suspira" >}}
-We hadn't yet tried the classic _Limeña suspira_ (Lima sigh) so we had
-it "three ways" for dessert. Classic _manjar blanco_ (aka _dulce de
-leche_), lucuma, and chirimoya. The name "manjar blanco" comes from
+We hadn't yet tried the classic _Limeña suspira_ (Lima sigh) so we had
+it "three ways" for dessert. Classic _manjar blanco_ (aka _dulce de
+leche_), lucuma, and chirimoya. The name "manjar blanco" comes from
 blancmange, but in reality is a hundred times better. It's milk and
 sugar cooked down until it becomes thick and brown and caramelly. It's
 called dulce de leche in other parts of South America and in

@@ -26,7 +26,7 @@ We left a bit early in order to give ourselves some insurance for
 unpredictable traffic, and as a result ended up about 15 minutes early
 for our restaurant reservation. Since the restaurant wasn't open, that
 gave us an opportunity to explore the butcher shop. It's eye
-popping. There's a salumeria towards the front. There are lots of
+popping. There's a salumeria towards the front. There are lots of
 different salamis and other cured meats hanging for inspection. I was
 particularly tempted by the lardo but it wasn't practical to bring in
 our luggage. As you move back you see cases with high quality fresh
@@ -47,8 +47,8 @@ menu, unsurprisingly has lots of charcuterie. Pork, and beef but also
 some prawns, chicken, and salad. This place does not really make any
 attempt to cater to vegetarians though.
 
-We had _mollejas_ (sweetbreads), _anticuchos_ (beef heart), a wedge
-salad, _chicharrones_ (fried pork), and _chuletón de res_ (large
+We had _mollejas_ (sweetbreads), _anticuchos_ (beef heart), a wedge
+salad, _chicharrones_ (fried pork), and _chuletón de res_ (large
 ribeye steak). This way way too much food, but so worth it.
 
 #### Mollejas
@@ -56,7 +56,7 @@ ribeye steak). This way way too much food, but so worth it.
 The first appetiser, mollejas (sweetbreads) over _camote_ (sweet
 potato), was much larger than we had expected. It was five grilled
 sweetbreads over camote puree, and reminded me a bit of the mollejas
-at [Cosme.](/cosme/) Nicely griddled, well
+at [Cosme.](/cosme/) Nicely griddled, well
 balanced by the sweetness of the camote.
 
 #### Anticuchos

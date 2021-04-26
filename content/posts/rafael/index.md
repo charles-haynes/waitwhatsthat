@@ -1,4 +1,4 @@
----
+()---
 title: "Rafael"
 date: "2018-11-11"
 categories: 
@@ -15,8 +15,8 @@ Rafael Osterling didn't start off to be a chef. He was going to be a
 lawyer. As the son of the leader of one of Peru's political parties he
 was trained to be a diplomat. Though he always had a love of cooking
 and a talent for it, his family discouraged it so he always expected
-to go into public service. Then came Fujimori's 1992 _autogolpe_ and
-everything changed. With his father under house arrest, and  tanks
+to go into public service. Then came Fujimori's 1992 _autogolpe_ and
+everything changed. With his father under house arrest, and  tanks
 outside of their house, a diplomatic career seemed less likely and he
 was free to pursue his first love.
 
@@ -38,7 +38,7 @@ _choclo_, and piped sweet potato puree for a more refined
 presentation.
 
 We also had fried sweetbreads and pea puree, classically British, but
-served with hard boiled quail eggs, typically Peruvian. Our pasta
+served with hard boiled quail eggs, typically Peruvian. Our pasta
 course, pasta alla chitarra, was a traditionally Italian dish but an
 Italian would not make it with Peruvian sea urchin. Still the creamy
 briny sea urchin sets off the pasta perfectly. Finally the fish, a

@@ -15,7 +15,7 @@ featured_image: "images/Lima-El-Pan-de-la-Chola-Foccacia-1.jpg"
 If you're looking for great bread in Lima, bingo! this is the
 place. Crusty chewy super-hydrated breads are the reason to come
 here. The bread then gets used to make their sandwiches, elevating the
-humble _mixto_ to something extraordinary. The space is bright, open,
+humble _mixto_ to something extraordinary. The space is bright, open,
 with wood everywhere. A place you could sit and spend hours relaxing
 and enjoying the food and a book. Sadly the coffee, while perfectly
 adequate, can't match the excellence of the bread.

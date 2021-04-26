@@ -8,14 +8,14 @@ tags:
   - "peru"
 featured_image: "images/Lima-Manolo-Churros-y-chocolate.jpg"
 ---
-Manolo is an old fashioned Lima _caféteria_ (coffee shop)
-and _churreria_ in the heart of Miraflores.  It's an institution,
+Manolo is an old fashioned Lima _caféteria_ (coffee shop)
+and _churreria_ in the heart of Miraflores.  It's an institution,
 founded in 1968 and is a comforting favorite of families of all
 ages. You see grandparents who may have met there, and new families
 bringing their kids. There's a huge menu of sandwiches, pastas,
 seafood, and desserts
 
-The portions are big, the _crema volteada_ ("turned over" cream, like
+The portions are big, the _crema volteada_ ("turned over" cream, like
 a flan) nearly covered the plate. The meals are family sized because
 this is a family place. While there are tourists here, there are
 plenty of ordinary people enjoying an old favorite as well.

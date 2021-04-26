@@ -23,7 +23,7 @@ which was a pleasant surprise.
 The story of IK is a little sad, it's named after Ivan Kisic. When he
 died in a car accident his brother Franco had to come home from
 Barcelona, where he was working with Albert Adría, to run IK. He
-recruited Francesca in 2108. Francesca has experience in high end
+recruited Francesca in 2108. Francesca has experience in high end
 kitchens both in Spain (Celler de Can Roca) and Thailand (Gaggan).
 
 ### Dishes

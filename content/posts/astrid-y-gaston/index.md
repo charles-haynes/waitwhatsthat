@@ -27,7 +27,7 @@ history, blending native, colonial, chifa (chinese), and nikkei
 love" appetizers served on a disheveled ceramic bed. From there it
 goes on to explore dishes that seem familiar at first - peking duck
 for example - but taken to a new level, in this case the crispy
-skinned _cuy_ or guinea pig, and served on a wrapper that is
+skinned _cuy_ or guinea pig, and served on a wrapper that is
 reminiscent of a peking duck pancake but made from _maíz morado_ the
 iconic peruvian purple corn. All of the dishes call back to one or
 more of the distinct heritages - "bloods" - that make up Lima.
@@ -35,7 +35,7 @@ more of the distinct heritages - "bloods" - that make up Lima.
 The meal ends with a pastry tour de force. The star of the show is a
 "potato" sitting in dirt. The potato is actually a shell around a
 saffron foam enclosing a custard that has an embedded surprise. It's
-witty, but importantly, it's delicious. Then _after_ the three
+witty, but importantly, it's delicious. Then _after_ the three
 desserts, you are presented with a wooden box that opens, and opens,
 and opens, displaying an overwhelming abundance of chocolates and
 other petits fours, all made on the premises and you're invited to

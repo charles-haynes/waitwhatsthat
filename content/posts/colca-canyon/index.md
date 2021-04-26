@@ -61,7 +61,7 @@ _that_, so we went to the local mercado and bought swimsuits and
 towels, we were concerned that it might be difficult to find a
 swimsuit that fit, but it worked out just fine.
 
-While there we looked for _chuñyo_, the andean freeze dried
+While there we looked for _chuñyo_, the andean freeze dried
 potato. Farmers will freeze harvested potatoes then leave them out in
 the sun to dry. The resulting freeze dried potato comes in two forms,
 white and black, with the black being harder to digest. Chuñyo can be
@@ -103,7 +103,7 @@ viewpoints with carcasses to encourage the condors to put in an
 appearance for the tourists.
 
 Juveniles are all brown, though males may already show the flattened
-crest. Subadults will  have black in the wings and may have a white
+crest. Subadults will  have black in the wings and may have a white
 ruff, adults will have a white ruff and white spots in the wing
 feathers. Most of the condors we saw were juveniles though there was
 one adult.

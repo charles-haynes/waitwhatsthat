@@ -23,7 +23,7 @@ ecosystem, scavenging and cleaning up after others.
 ### The food
 
 The dishes are an eclectic mix, fundamentally Peruvian, but with nods
-to other cultures. We had the _mollejas_ (sweetbreads), a _"cebiche"_
+to other cultures. We had the _mollejas_ (sweetbreads), a _"cebiche"_
 that did not have raw fish, a 36 hour braised beef, and the fish of
 the day.
 
@@ -36,11 +36,11 @@ The cebiche was, as the waiter warned us, non-traditional. It was more
 like a chicharron, breaded deep fried cubes of fish served with a
 sauce that reminded me of buffalo chicken wing sauce. The sauce was
 tart, buttery, and spicy. The cebiche was served with traditional
-_choclo_ (Peruvian giant corn) and sweet potato, though the sweet
+_choclo_ (Peruvian giant corn) and sweet potato, though the sweet
 potato was grilled batons rather than boiled rounds. I thought the
 dish was delicious, but calling it cebiche is definitely misleading.
 
-We had the fish of the day. It was _charela,_ a firm white fish
+We had the fish of the day. It was _charela,_ a firm white fish
 related to sea bass. It's served grilled on a bed of chickpeas and
 demi-glace. The chickpeas were great, but the demi-glace was a bit
 thick for the dish, thinning it a bit might have worked better.

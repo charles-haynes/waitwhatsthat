@@ -13,12 +13,12 @@ featured_image: "images/Lima-Costanera-700-Sea-urchin-tiradito.jpg"
 ### The place
 
 Costanera 700 is one of the oldest _Nikkei_ (Japanese
-Peruvian) restaurants in Lima. It was founded by _nissei_ Humberto
+Peruvian) restaurants in Lima. It was founded by _nissei_ Humberto
 Sato (who passed away in October at 78) and is now run by his son
 Yaquir Sato. This place is a Lima institution, beloved for over 30
 years by politicians, business people, and the artistic elite. The
 decor reflects both its age and its eclectic history, it's kitchy and
-a bit dated but charming none the less.  The clientele? In Yaquir's
+a bit dated but charming none the less.  The clientele? In Yaquir's
 words (translated) "Now many entrepreneurs come to close deals,
 especially at lunch time, the average customer is over 40 years old
 and most of them are male, while 30% come from another country."
@@ -35,8 +35,8 @@ large glasses. We asked, it was a lemongrass lemonade! Had to have
 it. Was delicious. Will have to find it again.
 
 {{< img "images/Lima-Costanera-700-Sea-urchin-tiradito.jpg" "300x201" "Sea urchin tiradito" >}}
-We started with an uni _tiradito._ There was a special "_Erizo en
-Salsa Temsuyo"_ sea urchin in tempura sauce, but instead we ordered
+We started with an uni _tiradito._ There was a special "_Erizo en
+Salsa Temsuyo"_ sea urchin in tempura sauce, but instead we ordered
 erizo tiradito with shoyu and olive oil "Costanera." At s/. 50 (about
 US $15) this felt sinfully indulgent. It was more uni at one sitting
 than I've ever had before. In Japan, for that price, you'd only get
@@ -59,7 +59,7 @@ tempura is genius, I think every tempura should include it.
 
 {{< img "images/Lima-Costanera-700-Chita-a-la-sal-2.jpg" "300x167" "Chita a la sal" >}}
 Finally we had the _chita a la sal_, a house specialty. The menu
-calls _chita_ "gilt head bream" (_s__parus aurata_) but most sources
+calls _chita_ "gilt head bream" (_s__parus aurata_) but most sources
 say chita is "peruvian grunt" (_anisotremus scapularis._) Either way
 it's a medium-large robust silvery fish with firm tasty white
 flesh. Costanera 700 prepares it baked in a salt crust, and serves it

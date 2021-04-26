@@ -17,7 +17,7 @@ heard good things about the food and ingredients but were a little
 suprised at the setting and ambience. This seems like a place to take
 clients.
 
-But the menu is all about the ingredients. The owner Pedro Miguel
+But the menu is all about the ingredients. The owner Pedro Miguel
 Schiaffino also owns āmaZ, which also focuses on Peruvian Amazonian
 food, but Malabar uses those ingredients in the service of fine
 dining. The emphasis is on the ingredients, not flashy technique, but
