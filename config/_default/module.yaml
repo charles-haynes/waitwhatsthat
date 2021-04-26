@@ -1,0 +1,11 @@
+imports:
+  - path: github.com/ApoorvSaxena/lozad.js
+    mounts:
+      - source: dist
+        target: assets
+  - path: github.com/dimsemenov/PhotoSwipe
+    mounts:
+      - source: dist
+        target: assets/photoswipe
+      - source: dist/default-skin/default-skin.png
+        target: static/photoswipe/default-skin/default-skin.png

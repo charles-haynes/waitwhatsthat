@@ -8,13 +8,3 @@ theme:
   - github.com/theNewDynamic/gohugo-theme-ananke
 timeout: 60000
 title: Wait What's That?
-module:
-  imports:
-    - path: github.com/ApoorvSaxena/lozad.js
-      mounts:
-        - source: dist/lozad.js
-          target: assets/lozad.js
-    - path: github.com/dimsemenov/PhotoSwipe
-      mounts:
-        - source: dist
-          target: assets/photoswipe
