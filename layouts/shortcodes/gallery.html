@@ -8,9 +8,9 @@
 {{- $galleryId := (printf "gallery-%v" .Ordinal) }}
 <gallery id="{{ $galleryId }}">
   {{ $index := 0 }}
-  {{- range $original := $originals -}}
-    {{- $thumbnail := ($original.Resize "x150 Lanczos") -}}
-    {{- $preview := $original.Fit "32x32 q20 webp" -}}
+  {{- range $originals -}}
+    {{- $thumbnail := (.Resize "x150 Lanczos") -}}
+    {{- $preview := .Fit "32x32 q20 webp" -}}
     {{- $ar := div (float $thumbnail.Width) $thumbnail.Height -}}
     {{- $sz := math.Round (mul $ar 150) -}}
     <div style="Width:{{$sz}}px;flex-grow:{{$sz}}">
