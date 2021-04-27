@@ -2,17 +2,9 @@
 
 {{- $lozad := resources.Get "lozad.js" | minify | fingerprint -}}
 
-{{- $photoSwipe := resources.Get "photoswipe/photoswipe.js" | minify | fingerprint -}}
-{{- $photoSwipeUI := resources.Get "photoswipe/photoswipe-ui-default.js" | minify | fingerprint -}}
-{{- $photoSwipeCSS := resources.Get "photoswipe/photoswipe.css" | fingerprint -}}
-{{- $photoSwipeSkinCSS := resources.Get "photoswipe/default-skin/default-skin.css" | fingerprint -}}
 {{- $originals := .Page.Resources.ByType "image" -}}
 <link href="{{ $galleryCSS.RelPermalink }}" rel="stylesheet">
-<link href="{{ $photoSwipeCSS.RelPermalink }}" rel="stylesheet">
-<link href="{{ $photoSwipeSkinCSS.RelPermalink }}" rel="stylesheet">
 <script src="{{ $lozad.RelPermalink }}"></script>
-<script src="{{ $photoSwipe.RelPermalink }}"></script>
-<script src="{{ $photoSwipeUI.RelPermalink }}"></script>
 {{- $galleryId := (printf "gallery-%v" .Ordinal) }}
 <gallery id="{{ $galleryId }}">
   {{ $index := 0 }}
@@ -27,13 +19,31 @@
       <img
         src="data:image/webp;base64,{{$preview.Content | base64Encode }}"
         class="lozad"
-        data-src="{{$thumbnail.RelPermalink}}"
+        data-src={{$thumbnail.RelPermalink}}
+        data-idx={{$index}}
       >
     </div>
     {{ $index = add $index 1 }}
   {{- end -}}
 </gallery>
 
+<script type="text/javascript">
+ const observer =  lozad('.lozad', {
+   loaded: function(el) {el.classList.add('loaded')}
+ });
+ observer.observe();
+</script>
+
+<!-- photoswipe -->
+{{- $photoSwipe := resources.Get "photoswipe/photoswipe.js" | minify | fingerprint -}}
+{{- $photoSwipeUI := resources.Get "photoswipe/photoswipe-ui-default.js" | minify | fingerprint -}}
+{{- $photoSwipeCSS := resources.Get "photoswipe/photoswipe.css" | fingerprint -}}
+{{- $photoSwipeSkinCSS := resources.Get "photoswipe/default-skin/default-skin.css" | fingerprint -}}
+
+<link href="{{ $photoSwipeCSS.RelPermalink }}" rel="stylesheet">
+<link href="{{ $photoSwipeSkinCSS.RelPermalink }}" rel="stylesheet">
+<script src="{{ $photoSwipe.RelPermalink }}"></script>
+<script src="{{ $photoSwipeUI.RelPermalink }}"></script>
 <!-- Root element of PhotoSwipe. Must have class pswp. -->
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
 
@@ -94,31 +104,27 @@
       <div class="pswp__caption">
         <div class="pswp__caption__center"></div>
       </div>
-
     </div>
-
   </div>
-
 </div>
 
 <script type="text/javascript">
- const observer =  lozad('.lozad', {
-   loaded: function(el) {el.classList.add('loaded')}
- });
- observer.observe();
-
  let pswpElement = document.querySelector('.pswp');
- let gallery = document.querySelector('gallery'); // only one gallery per page
+ let images = document.querySelectorAll('img');
  let items = [
-   {{- range $original := $originals -}}
-   { src: {{$original.RelPermalink}}, w: {{$original.Width}}, h: {{$original.Height}} },
+   {{- range $originals -}}
+   { src: {{.RelPermalink}}, w: {{.Width}}, h: {{.Height}} },
    {{- end -}}
  ];
- for (let i = 0, l = gallery.children.length; i<l; i++) {
-   gallery.children[i].onclick = function() {
-     var options = {index: i};
-     var psGallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
-     psGallery.init();
-   };
+ function lightboxDisplay(i) {
+   let options = {index: i};
+   let psGallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
+   psGallery.init();
+ };
+ for (let i = 0, l = images.length; i<l; i++) {
+   let idx = images[i].getAttribute("data-idx");
+   if (idx) {
+     images[i].onclick = () => lightboxDisplay(idx);
+   }
  };
 </script>

@@ -2,9 +2,14 @@
 {{- $fill := .Get 1 -}}
 {{- $caption := .Get 2 -}}
 {{- $img := .Page.Resources.GetMatch $src -}}
-{{- $fill_img := $img.Fill $fill }}
+{{- $fill_img := $img.Fill $fill -}}
+{{- $idx := partial "func/IndexOf" (dict "collection" (.Page.Resources.ByType "image") "element" $img.RelPermalink) -}}
 <figure class="fr w-33">
-  <a href="{{ $img.RelPermalink }}"><img src="{{ $fill_img.RelPermalink }}"></a>
+  {{ if eq $idx -1 }}<a href="{{ $img.RelPermalink }}">{{ end }}
+      <img
+        src="{{ $fill_img.RelPermalink }}"
+        {{ if ne $idx -1 }}data-idx="{{ $idx }}"{{ end }}
+      >
+  {{ if eq $idx -1 }}</a>{{ end }}
   <figcaption>{{ $caption }}</figcaption>
 </figure>
-
