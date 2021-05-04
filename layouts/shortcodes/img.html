@@ -15,9 +15,8 @@
 <figure class="{{$class}}">
   {{ if eq $idx -1 }}<a href="{{ $refImg.RelPermalink }}">{{ end }}
       <img
-        {{ with $srcSet}}srcset="{{.}}"{{ end }}
+        {{ with $srcSet}}srcset="{{.}}" sizes="{{$sizes}}"{{ end }}
         src="{{ $srcImg.RelPermalink }}"
-        sizes="{{$sizes}}"
         {{ if ne $idx -1 }}data-idx="{{ $idx }}"{{ end }}
       >
   {{ if eq $idx -1 }}</a>{{ end }}
