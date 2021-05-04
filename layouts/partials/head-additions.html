@@ -1,0 +1,18 @@
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+{{ if $featured_image }}
+  {{- $imageSet := partial "func/ImageSet.html" $featured_image -}}
+  <style type="text/css">
+   header.bg-top {
+     background-image: url('{{$featured_image.RelPermalink}}');
+   }
+   {{- $w := 0 -}}
+   {{- range $imageSet }}
+   @media screen and (min-width: {{$w}}px) and (max-width: {{.width}}px) {
+     header.bg-top {
+       background-image: url('{{.url | safeCSS}}');
+     }
+   }
+   {{- $w = .width -}}
+   {{- end }}
+  </style>
+{{end}}

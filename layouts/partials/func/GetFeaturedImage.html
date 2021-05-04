@@ -1,7 +1,7 @@
 {{/*
     GetFeaturedImage
 
-    This partial gets the url for featured image for a given page.
+    This partial gets the featured image for a given page.
 
     If a featured_image was set in the page's front matter, then that will be used.
 
@@ -37,10 +37,8 @@
   {{ end }}
 {{ end }}
 
-{{ $linkToCover := "" }}
 {{ if $coverImg }}
   {{ $coverImg = $coverImg.Fill "1440x642" }}
-  {{ $linkToCover = $coverImg.RelPermalink }}
 {{ end }}
 
-{{ return $linkToCover }}
+{{ return $coverImg }}
