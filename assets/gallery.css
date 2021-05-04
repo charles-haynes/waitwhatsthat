@@ -22,6 +22,7 @@ gallery img {
 }
 gallery img.lozad {
     filter: blur(3px);
+    transition: filter 500ms ease-in;
 }
 
 gallery img.lozad.loaded {
