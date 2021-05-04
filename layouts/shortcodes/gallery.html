@@ -18,6 +18,7 @@
   {{ $index := 0 }}
   {{- range $originals -}}
     {{- $thumbnail := (.Resize "x150 Lanczos") -}}
+    {{- $srcSet := partial "func/SrcSet" $thumbnail -}}
     {{- $preview := .Fit "32x32 q20 webp" -}}
     {{- $aspectRatio := div (float $thumbnail.Width) $thumbnail.Height -}}
     {{- $sz := math.Round (mul $aspectRatio 150) -}}
@@ -28,6 +29,7 @@
         src="data:image/webp;base64,{{$preview.Content | base64Encode }}"
         class="lozad"
         data-src={{$thumbnail.RelPermalink}}
+        {{ with $srcSet }}data-srcset="{{.}}" data-sizes="{{$sz}}w"{{ end }}
         data-idx={{$index}}
       >
     </div>

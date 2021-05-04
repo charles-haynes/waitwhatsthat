@@ -1,13 +1,23 @@
-{{- $src := .Get 0 -}}
-{{- $fill := .Get 1 -}}
-{{- $caption := .Get 2 -}}
-{{- $img := .Page.Resources.GetMatch $src -}}
-{{- $fill_img := $img.Fill $fill -}}
-{{- $idx := partial "func/IndexOf" (dict "collection" (.Page.Resources.ByType "image") "element" $img.RelPermalink) -}}
-<figure class="fr w-33">
-  {{ if eq $idx -1 }}<a href="{{ $img.RelPermalink }}">{{ end }}
+{{- $src := .Get "src" -}}
+{{- $fill := .Get "fill" -}}
+{{- $fit := .Get "fit" -}}
+{{- $resize := .Get "resize" -}}
+{{- $caption := .Get "caption" -}}
+{{- $sizes := .Get "sizes" | default "(min-width: 60em) calc(((100vw - 1rem - 1rem) * 2 / 3 - 2rem) * 1 / 3), calc((100vw - 1rem - 1rem) * 1 / 3)" -}}
+{{- $class := .Get "class" | default "fr w-33" -}}
+{{- $refImg := .Page.Resources.GetMatch $src -}}
+{{- $srcImg := $refImg -}}
+{{- if $fill -}}{{- $srcImg := $refImg.Fill $fill -}}{{- end -}}
+{{- if $fit -}}{{- $srcImg := $refImg.Fit $fit -}}{{- end -}}
+{{- if $resize -}}{{- $srcImg := $refImg.Resize $resize -}}{{- end -}}
+{{- $idx := partial "func/IndexOf" (dict "collection" (.Page.Resources.ByType "image") "element" $refImg.RelPermalink) -}}
+{{- $srcSet := partial "func/SrcSet" $srcImg -}}
+<figure class="{{$class}}">
+  {{ if eq $idx -1 }}<a href="{{ $refImg.RelPermalink }}">{{ end }}
       <img
-        src="{{ $fill_img.RelPermalink }}"
+        {{ with $srcSet}}srcset="{{.}}"{{ end }}
+        src="{{ $srcImg.RelPermalink }}"
+        sizes="{{$sizes}}"
         {{ if ne $idx -1 }}data-idx="{{ $idx }}"{{ end }}
       >
   {{ if eq $idx -1 }}</a>{{ end }}
