@@ -15,7 +15,7 @@ featured_image: "images/Moray-MIL-Potatoes.jpg"
 ---
 ## Cusco
 
-{{< img "images/Moray-MIL-MIL.jpg" "300x266" "MIL" >}}
+{{< img src="images/Moray-MIL-MIL.jpg" fill="300x266" caption="MIL" >}}
 Cusco is a beautiful World Heritage city. We decided we’d spend some
 time here on our way from Lima to La Paz. Besides being the gateway to
 Machu Picchu, it’s the former capital of the Inca empire and arguably
@@ -35,7 +35,7 @@ way. Turns out there was!
 
 ### Salt Ponds
 
-{{< img "images/Maras-Salt-Ponds-Salt-Terraces.jpg" "300x112" "Salt Terraces" >}}
+{{< img src="images/Maras-Salt-Ponds-Salt-Terraces.jpg" fill="300x112" caption="Salt Terraces" >}}
 The Maras salt ponds are a pre-Inca salt mine that is still in use
 today. You come around a corner on the road and are faced with a
 hillside covered in white terraces. The terrace complex is fed by an
@@ -53,7 +53,7 @@ luggage.
 
 ### Terraces
 
-{{< img "images/Moray-Moray-terraces.jpg" "300x277" "Moray terraces" >}}
+{{< img src="images/Moray-Moray-terraces.jpg" fill="300x277" caption="Moray terraces" >}}
 After visiting the salt mines, we drove a short distance to
 Moray. Moray is a visually striking set of Inca ruins, consisting of
 concentric circular terraces about 30m deep. Their purpose is still
@@ -71,7 +71,7 @@ don’t go to bed uncomfortably full, and the light is better for
 photos. The complex is beautifully suited to the site, elegantly and
 simply blending with the terrain and landscape.
 
-{{< img "images/Moray-MIL-Experimental-plants.jpg" "300x224" "Experimental plants" >}}
+{{< img src="images/Moray-MIL-Experimental-plants.jpg" fill="300x224" caption="Experimental plants" >}}
 When we arrived we were given a tour of the grounds and the other
 things going on on site. Besides the restaurant and garden, there is a
 research arm in to local Peruvian ingredients and experiments in how
@@ -86,7 +86,7 @@ different local varieties of Cacao, and there were two small electric
 stone mills grinding their own chocolate. I now want a stone mill,
 except that I think they probably weigh 20kg just by themselves.
 
-{{< img "images/Moray-MIL-Ferments-and-infusions.jpg" "252x300" "Ferments and infusions" >}}
+{{< img src="images/Moray-MIL-Ferments-and-infusions.jpg" fill="252x300" caption="Ferments and infusions" >}}
 There’s also an area for fermentations including a kombucha made from
 local tea and panela, and an alembic still and alcoholic herbal
 infusions.
@@ -101,7 +101,7 @@ beverage pairings.
 
 #### Freeze dried potato (chuño), corn, wild uchucate, oca
 
-{{< img "images/Moray-MIL-Chuñyo.jpg" "300x130" "Chuñyo" >}}
+{{< img src="images/Moray-MIL-Chuñyo.jpg" fill="300x130" caption="Chuñyo" >}}
 Chuño is naturally freeze dried potato, a technique invented centuries
 ago. There are two varieties: White and Black. White is supposed to be
 easy to digest, but I haven’t noticed any difficulty with either of
@@ -116,7 +116,7 @@ corn cakes that were a little gummy but full of corn flavor.
 
 #### Cabuya nectar, lamb, kaniwa grain, white quinoa
 
-{{< img "images/Moray-MIL-Lamb-tartare.jpg" "292x300" "Lamb tartare" >}}
+{{< img src="images/Moray-MIL-Lamb-tartare.jpg" fill="292x300" caption="Lamb tartare" >}}
 The lamb tartare with cherimoya dressing was a great combination,
 fruity and umami. The kaniwa crisps made the right texture contrast
 and the a creamy white quinoa dip went well with both. A bowl of fresh
@@ -128,7 +128,7 @@ side added needed tartness.
 
 #### Lupinus legume, pork belly, avocado, rocoto pepper
 
-{{< img "images/Moray-MIL-Lupinus-bread.jpg" "300x281" "Lupinus bread" >}}
+{{< img src="images/Moray-MIL-Lupinus-bread.jpg" fill="300x281" caption="Lupinus bread" >}}
 Lupines are peas, and grow wild all over the world, including Peru. So
 this course was a sprouted pea bread, and peas in the pork belly
 confit. I thought this dish might have needed more work. The flavours
@@ -158,7 +158,7 @@ included crispy kale leaves and a puree with edible flowers.
 
 #### Potatoes, stems, chaco clay, chincho
 
-{{< img "images/Moray-MIL-Potatoes.jpg" "300x217" "Potatoes" >}}
+{{< img src="images/Moray-MIL-Potatoes.jpg" fill="300x217" caption="Potatoes" >}}
 This dish connected to the local people and their harvest between June
 and July. Freshly harvested potatoes are roasted in a traditional oven
 and eaten communally with your fingers, dipped in sauce. One table
@@ -188,7 +188,7 @@ Three Monkeys.
 
 ### Virgilio Martínez
 
-{{< img "images/ORG_DSC02195.jpg" "300x200" "Virgilio Martínez" >}}
+{{< img src="images/ORG_DSC02195.jpg" fill="300x200" caption="Virgilio Martínez" >}}
 We’ve been seeking out Virgilio Martínez’s restaurants in Peru. He’s
 most famous for Central in Lima, but MIL is one of his pet projects
 and he was on site! He said hi, and graciously agreed to pose for a

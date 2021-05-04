@@ -13,7 +13,7 @@ featured_image: "images/Machu-Picchu-Terraces-and-hut.jpg"
 
 ## Before you go
 
-{{< img "images/Machu-Picchu-Machu-Picchu-2.jpg" "300x246" "Machu Picchu Selfie" >}}
+{{< img src="images/Machu-Picchu-Machu-Picchu-2.jpg" fill="300x246" caption="Machu Picchu Selfie" >}}
 I always thought that Machu Picchu was only for young fit people. That
 you had to trek in and walk up a mountain to get there. Not true. Even
 old less than fit people can easily visit. You don’t have to sign up
@@ -36,7 +36,7 @@ skipped the sorojchi.
 
 ### Cusco to Machu Picchu Pueblo (Aguas Calientes)
 
-{{< img "images/Poroy-All-Aboard.jpg" "300x229" "All Aboard" >}}
+{{< img src="images/Poroy-All-Aboard.jpg" fill="300x229" caption="All Aboard" >}}
 The easiest and most comfortable way to get from Cusco to Machu Picchu
 is to take the train. Unfortunately unless you’re a Cusco resident
 (and can prove it) you have to catch the train in Poroy, about 30
@@ -61,7 +61,7 @@ mountains.
 
 ### Machu Picchu Pueblo to Machu Picchu
 
-{{< img "images/Machu-Picchu-Pueblo-Machu-Picchu-Pueblo.jpg" "300x217" "Machu Picchu Pueblo" >}}
+{{< img src="images/Machu-Picchu-Pueblo-Machu-Picchu-Pueblo.jpg" fill="300x217" caption="Machu Picchu Pueblo" >}}
 The town of Machu Picchu Pueblo is all about the tourism. That’s not
 so surprising, Machu Picchu _is_ the most popular tourist destination
 in Peru. The restaurants are pretty much limited to tourist Peruvian,
@@ -79,7 +79,7 @@ the bed was HUGE. It was a nice break from the mid-range three star
 hotels we’ve been staying in and the price was quite reasonable
 (US$60/night.)
 
-{{< img "images/Machu-Picchu-The-switchbacks.jpg" "300x207" "The switchbacks" >}}
+{{< img src="images/Machu-Picchu-The-switchbacks.jpg" fill="300x207" caption="The switchbacks" >}}
 To get from town to Machu Picchu itself there is a shared bus (US$12
 p/p each way). The stop is just a block or two downhill from the
 center of town. It leaves when it’s full which in practice is quite
@@ -102,7 +102,7 @@ scare you into buying a ticket from them in advance. It took us about
 Picchu. We did not get up insanely early, we had time for breakfast at
 the hotel and a calm stroll to the bus stop.
 
-{{< img "images/Machu-Picchu-Machu-Picchu.jpg" "300x200" "Machu Picchu" >}}
+{{< img src="images/Machu-Picchu-Machu-Picchu.jpg" fill="300x200" caption="Machu Picchu" >}}
 I do recommend starting by walking up to caretakers hut for the
 view. It’s immediately to your left as you enter, and this is where
 you get the classic “postcard” overview of the entire site. It
@@ -115,7 +115,7 @@ everywhere. Because a lot is still unknown about how Machu Picchu was
 used most of what you’ll hear from the guides is authoritative
 sounding speculation.
 
-{{< img "images/Machu-Picchu-Fine-stonework.jpg" "300x200" "Fine stonework" >}}
+{{< img src="images/Machu-Picchu-Fine-stonework.jpg" fill="300x200" caption="Fine stonework" >}}
 Machu Picchu seems like it was a big highly developed reserve for Inca
 elites with a stunning amount of astonishingly high quality
 stonework. The precision joinery is hard to believe. You definitely

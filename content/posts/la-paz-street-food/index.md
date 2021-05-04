@@ -17,7 +17,7 @@ shops and stands are run by women.
 
 ### Chola Sandwich
 
-{{< img "images/La-Paz-Pork-Leg.jpg" "300x225" "Pork Leg" >}}
+{{< img src="images/La-Paz-Pork-Leg.jpg" fill="300x225" caption="Pork Leg" >}}
 First stop was a roast pork sandwich place run by two sisters and
 billed as _"El Mejor Sándwich De Chola De La Paz 'Doña Paula'"_ (The
 best Chola Sandwich in La Paz "Doña Paula") This same stand has been
@@ -32,7 +32,7 @@ usually 8 or 9pm.
 
 ### Sausage Sandwich
 
-{{< img "images/La-Paz-Mercado-Lanza-Chorizo-and-fixings.jpg" "276x300" "Chorizo and fixings" >}}
+{{< img src="images/La-Paz-Mercado-Lanza-Chorizo-and-fixings.jpg" fill="276x300" caption="Chorizo and fixings" >}}
 Next up was _Doña Elvira's Sándwich de Chorizo_ that is a handmade
 sausage of four meats (beef, pork, alpaca, and I'm not sure what),
 served on a fresh bun. Sadly we arrived as they were cleaning up, but
@@ -50,7 +50,7 @@ sauces (mayonnaise and/or mustard).
 
 ### Braised Tripe
 
-{{< img "images/La-Paz-Tripe-stand.jpg" "300x191" "Tripe stand" >}}
+{{< img src="images/La-Paz-Tripe-stand.jpg" fill="300x191" caption="Tripe stand" >}}
 _Tripa_ is beef tripe cooked in a giant enameled metal pan over a gas
 fire. It ends up partially fried and partially braised and entirely
 delicious. Succulent savoury umami juices coating slippery chewy meaty
@@ -61,7 +61,7 @@ soak up excess alcohol. We like it even without the alcohol.
 
 ### Beef Heart
 
-{{< img "images/La-Paz-Anticuchos-stand.jpg" "271x300" "Anticuchos stand" >}}
+{{< img src="images/La-Paz-Anticuchos-stand.jpg" fill="271x300" caption="Anticuchos stand" >}}
 Bolivian _anticuchos_ (grilled beef heart) are smaller and thinner
 than Peruvian _anticuchos._ The most famous place to get _anticuchos_
 in La Paz is at _mercado "Las Velas."_ We visited, but our host had a
@@ -72,7 +72,7 @@ the street from where we're staying, but by the time we got there we
 were so full we couldn't eat anything more, so that's also on the list
 for a return visit.
 
-{{< img "images/La-Paz-Sopocachi-On-the-grill.jpg" "300x232" "On the grill" >}}
+{{< img src="images/La-Paz-Sopocachi-On-the-grill.jpg" fill="300x232" caption="On the grill" >}}
 Apparently the anticuchos cart near where we're staying is quite
 famous! Whenever I mentioned _"anticuchos"_ and _"Sopocachi"_ (our
 neighborhood) people all said to visit this cart. So we did. It's a
@@ -93,7 +93,7 @@ of fun.
 
 ### Braised Kidneys
 
-{{< img "images/La-Paz-Kidneys-3.jpg" "204x300" "Kidneys" >}}
+{{< img src="images/La-Paz-Kidneys-3.jpg" fill="204x300" caption="Kidneys" >}}
 _Riñoncitos al jugo_ or braised kidneys are another classic late night
 after club snack. During an earlier discussion of _anticuchos_ we had
 asked about other kinds of offal. Once Coral knew we liked organ meats
@@ -105,7 +105,7 @@ with a deep fried egg, shredded carrot, and an optional spicy salsa.
 
 ### _Api_ and _Pastel_
 
-{{< img "images/La-Paz-Api-2.jpg" "225x300" "Api" >}}
+{{< img src="images/La-Paz-Api-2.jpg" fill="225x300" caption="Api" >}}
 We were near the traditional Christmas Fair fairgrounds, where they
 sell _api y pastel._ _Api_ is a traditional drink of the Bolivian
 Andes, it's made with purple corn, sugar, cinnamon and cloves. It
@@ -119,7 +119,7 @@ we're staying so we'll have to give them a visit.
 
 ### Salteñas
 
-{{< img "images/La-Paz-Salteñas-4.jpg" "300x180" "Salteñas" >}}
+{{< img src="images/La-Paz-Salteñas-4.jpg" fill="300x180" caption="Salteñas" >}}
 Besides the places we visited on our tour, we see lots of people
 selling _sateñas_ on the street, and lots of _salteñarías_ in the
 neighborhood. A _salteña_ is a small meat filled pastry, similar to an

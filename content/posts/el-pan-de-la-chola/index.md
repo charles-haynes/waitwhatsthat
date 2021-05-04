@@ -11,7 +11,7 @@ tags:
   - "tartine"
 featured_image: "images/Lima-El-Pan-de-la-Chola-Foccacia-1.jpg"
 ---
-{{< img "images/Lima-El-Pan-de-la-Chola-Breads-3.jpg" "300x240" "Breads" >}}
+{{< img src="images/Lima-El-Pan-de-la-Chola-Breads-3.jpg" fill="300x240" caption="Breads" >}}
 If you're looking for great bread in Lima, bingo! this is the
 place. Crusty chewy super-hydrated breads are the reason to come
 here. The bread then gets used to make their sandwiches, elevating the
@@ -32,7 +32,7 @@ sourdough croissants and pain au chocolate (though not up to the level
 of a croissant obsessive like Lune in Melbourne), and big oatmeal
 chocolate chip cookies.
 
-{{< img "images/Lima-El-Pan-de-la-Chola-Cute-baby.jpg" "193x300" "Cute baby" >}}
+{{< img src="images/Lima-El-Pan-de-la-Chola-Cute-baby.jpg" fill="193x300" caption="Cute baby" >}}
 This has become our new favorite weekend brunch places. There are
 families, couples, backpackers, businesspeople, tourists and
 locals. It will be one of the first places we go any time we come back

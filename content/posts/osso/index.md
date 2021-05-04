@@ -21,7 +21,7 @@ Osso is Lima's "temple to meat," a restaurant, butcher shop, and charcuterie. It
 
 #### The store
 
-{{< img "images/Lima-Osso-Making-sausage.jpg" "300x292" "Making sausage" >}}
+{{< img src="images/Lima-Osso-Making-sausage.jpg" fill="300x292" caption="Making sausage" >}}
 We left a bit early in order to give ourselves some insurance for
 unpredictable traffic, and as a result ended up about 15 minutes early
 for our restaurant reservation. Since the restaurant wasn't open, that
@@ -41,7 +41,7 @@ case saying "oh wow."
 
 #### The restaurant
 
-{{< img "images/Lima-Osso-Mollejas.jpg" "300x161" "Mollejas" >}}
+{{< img src="images/Lima-Osso-Mollejas.jpg" fill="300x161" caption="Mollejas" >}}
 By then the restaurant was open, so we took our seats. The restaurant
 menu, unsurprisingly has lots of charcuterie. Pork, and beef but also
 some prawns, chicken, and salad. This place does not really make any
@@ -61,7 +61,7 @@ balanced by the sweetness of the camote.
 
 #### Anticuchos
 
-{{< img "images/Lima-Osso-Anticuchos-2.jpg" "300x221" "Anticuchos" >}}
+{{< img src="images/Lima-Osso-Anticuchos-2.jpg" fill="300x221" caption="Anticuchos" >}}
 Next came the anticuchos. Anticuchos are practically the national
 appetiser of Peru and I have them as often as I can. Pieces of beef
 heart in a tangy marinade, skewered and grilled over hot
@@ -83,7 +83,7 @@ goodness there were no more instances of flying meat.
 
 #### Chicharrón
 
-{{< img "images/Lima-Osso-Three-chicharrones.jpg" "300x148" "Three chicharrones" >}}
+{{< img src="images/Lima-Osso-Three-chicharrones.jpg" fill="300x148" caption="Three chicharrones" >}}
 Next we had three kinds of _chicharrón_. Chicharrón are "cracklings"
 usually fried pork skin, but can also be pork belly, mutton, or beef
 (or in Peru - fish!) These three were a pork belly confit for 6 hours
@@ -96,7 +96,7 @@ ground green herb sauce that complemented the meatiness of the pork.
 
 #### Chuletón de Res
 
-{{< img "images/Lima-Osso-Chuletón-de-Res-2.jpg" "297x300" "Chuletón de Res" >}}
+{{< img src="images/Lima-Osso-Chuletón-de-Res-2.jpg" fill="297x300" caption="Chuletón de Res" >}}
 Finally the piece de resistance. Peruvian rib eye steak dry aged for
 200 days. The flavor of meat aged this long is concentrated from
 losing so much moisture, and has a super funky umami from the
@@ -116,7 +116,7 @@ delicious cooking smells.
 
 #### Salad and petits fours
 
-{{< img "images/Lima-Osso-Meringues.jpg" "300x196" "Meringues" >}}
+{{< img src="images/Lima-Osso-Meringues.jpg" fill="300x196" caption="Meringues" >}}
 We also had an iceberg wedge salad with blue cheese vinaigrette to try
 to balance all the meat and fat, but it was hopeless. There was no way
 we were going to be able to balance all of that, and in fact we ended

@@ -38,7 +38,7 @@ mind.
 
 #### Ceviche
 
-{{< img "images/Lima-Osaka-Ceviche.jpg" "278x300" "Ceviche" >}}
+{{< img src="images/Lima-Osaka-Ceviche.jpg" fill="278x300" caption="Ceviche" >}}
 The three ceviches we chose were "OSK," "Rocoto Jam," and "Wasabi."
 The OSK is a tuna with smoked ponzu. The ponzu was sweet and not
 particularly smoky but it went well with the albacore tuna. The tuna
@@ -53,7 +53,7 @@ citrus ceviche enlivened with a bit of wasabi.
 The seasonal menu included "Shiro Tuna," "Unagi Nigiri," "Niku
 Zabuton," and "Umi Yuzu."
 
-{{< img "images/Lima-Osaka-Shiro-Tuna.jpg" "300x192" "Shiro Tuna" >}}
+{{< img src="images/Lima-Osaka-Shiro-Tuna.jpg" fill="300x192" caption="Shiro Tuna" >}}
 The shiro tuna looked pretty chaotic. It was albacore tataki, sweet
 potato crisps, japanese garlic, brunoise onion, seared avocado, salty
 almond milk, chopped spicy ají, and an herb oil all on one plate. It
@@ -72,7 +72,7 @@ for sitting) was a grilled piece of flat skirt steak rolled around
 rice and topped with seared foie gras. Lots of umami paired with the
 richness of foie gras. What's not to love?
 
-{{< img "images/Lima-Osaka-Umi-Yuzu.jpg" "300x185" "Umi Yuzu" >}}
+{{< img src="images/Lima-Osaka-Umi-Yuzu.jpg" fill="300x185" caption="Umi Yuzu" >}}
 The "_umi yuzu_" was a seafood and mushroom rice served in a hot iron
 skillet. It's a _shiitake_/seafood nabe with _yuzu kosho_ (fermented
 chili paste with citron peel.) There were big chunks of soft marinated

@@ -17,7 +17,7 @@ has a reputation as the best cevicheria in Lima and it regularly makes
 the lists of the best restaurants in Peru. Sounded like our kind of
 place.
 
-{{< img "images/Lima-El-Mercado-Patio.jpg" "300x200" "Dining area" >}}
+{{< img src="images/Lima-El-Mercado-Patio.jpg" fill="300x200" caption="Dining area" >}}
 I don't know if it's called "El Mercado" because it has the ambience
 of a market, or because it's across the street from the Miraflores
 mercado, but either way it's a breezy open space, green and
@@ -29,7 +29,7 @@ shops.
 
 ### Ceviche
 
-{{< img "images/Lima-El-Mercado-Ceviche-Pucusana.jpg" "228x300" "Ceviche" >}}
+{{< img src="images/Lima-El-Mercado-Ceviche-Pucusana.jpg" fill="228x300" caption="Ceviche" >}}
 The ceviche may be the best we've had. We had both a ceviche
 "Pucusana" and a tiradito "Nikkei." Pucusana is a fishing village
 south of Lima, we plan to stop there on our way south, and the
@@ -44,7 +44,7 @@ were a reminder that ceviche does not have to hit you on the head.
 
 ### Tiradito
 
-{{< img "images/Lima-El-Mercado-Tiradito-Nikkei.jpg" "300x132" "Tiradito \"Nikkei\"" >}}
+{{< img src="images/Lima-El-Mercado-Tiradito-Nikkei.jpg" fill="300x132" caption="Tiradito \"Nikkei\"" >}}
 Tiradito is based on sashimi. The fish is sliced into thin rectangular
 slices rather than cubes, is not "cooked" in an acidic marinade, and
 doesn't have onions. Instead the sauce is poured over just before
@@ -59,7 +59,7 @@ garnished with an avocado fan. Not flashy, just delicious.
 
 ### Empanadas
 
-{{< img "images/Lima-El-Mercado-Empanadas-2.jpg" "300x258" "Empanadas \"porteños\"" >}}
+{{< img src="images/Lima-El-Mercado-Empanadas-2.jpg" fill="300x258" caption="Empanadas \"porteños\"" >}}
 _Empanadas Porteñas_ ("port" empanadas) are presumably called that
 because they're filled with shrimp and squid rather than the
 traditional beef. These should probably be called _empanaditos_
@@ -69,7 +69,7 @@ uncertain provenance, but these seafood empanadas were just fine.
 
 ### Scallops
 
-{{< img "images/Lima-El-Mercado-Conchas.jpg" "300x226" "Conchas" >}}
+{{< img src="images/Lima-El-Mercado-Conchas.jpg" fill="300x226" caption="Conchas" >}}
 While we had quickly decided on ceviche and tiradito, I strained my
 limited Spanish and asked our waiter for a recommendation for a third
 dish. He suggested grilled _conchas_ (scallops). I had earlier seen
@@ -85,7 +85,7 @@ scallops.
 
 ### Dessert
 
-{{< img "images/Lima-El-Mercado-Limeña-suspira.jpg" "300x104" "Limeña suspira" >}}
+{{< img src="images/Lima-El-Mercado-Limeña-suspira.jpg" fill="300x104" caption="Limeña suspira" >}}
 We hadn't yet tried the classic _Limeña suspira_ (Lima sigh) so we had
 it "three ways" for dessert. Classic _manjar blanco_ (aka _dulce de
 leche_), lucuma, and chirimoya. The name "manjar blanco" comes from

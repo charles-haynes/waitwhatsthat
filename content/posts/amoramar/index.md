@@ -8,7 +8,7 @@ featured_image: "images/Lima-Amoramar-Ceviche.jpg"
 
 ### The place
 
-{{< img "images/Lima-Amoramar-Amaromar.jpg" "300x159" "Amoramar" >}}
+{{< img src="images/Lima-Amoramar-Amaromar.jpg" fill="300x159" caption="Amoramar" >}}
 Amoramar is another gem tucked away in an urban environment. On an
 otherwise unremarkable back street in Barranco, you go through a door
 and into an oasis. A tree lined patio with tables under a screened
@@ -27,7 +27,7 @@ up for our decision to not have the roast piglet.
 
 #### Cheese tiradito?!
 
-{{< img "images/Lima-Amoramar-Ceviche.jpg" "300x124" "Tiradito" >}}
+{{< img src="images/Lima-Amoramar-Ceviche.jpg" fill="300x124" caption="Tiradito" >}}
 We had seen _Tiradito Grana Padano_ on the menu and had been bemused
 and intrigued. A tiradito of cheese? Probably not. A tiradito _with_
 cheese? That almost as strange. How can you pair raw fish with cheese?
@@ -45,7 +45,7 @@ extraordinary, but grilled scallops are always a treat.
 
 #### Paiche
 
-{{< img "images/Lima-Amoramar-Paiche.jpg" "300x215" "Paiche" >}}
+{{< img src="images/Lima-Amoramar-Paiche.jpg" fill="300x215" caption="Paiche" >}}
 We've been seeing _paiche_ on menus a lot in Lima. It's the second
 largest fresh water fish in the world. Mature paiche can be over 3
 metres long, and over 250 kg. Native to the Amazon river they are
@@ -57,7 +57,7 @@ sweet, and not overcooked.
 
 #### Dessert
 
-{{< img "images/Lima-Amoramar-Dessert.jpg" "300x200" "Dessert" >}}
+{{< img src="images/Lima-Amoramar-Dessert.jpg" fill="300x200" caption="Dessert" >}}
 Finally we shared a _Isla de Frutos del Bosque_ "Island of fruits of
 the forest." Is "fruits of the forest" some sort of code for
 strawberries and blueberries? Every time I see "fruits of the forest"
@@ -70,7 +70,7 @@ sweet. Amoramar needs to raise their dessert game...
 
 ### In Conclusion
 
-{{< img "images/Lima-Amoramar-Roast-Pig.jpg" "300x134" "Roast Pig" >}}
+{{< img src="images/Lima-Amoramar-Roast-Pig.jpg" fill="300x134" caption="Roast Pig" >}}
 Overall the setting was excellent, the dishes were well done but not
 particularly innovative. The suckling pig looked great though!
 

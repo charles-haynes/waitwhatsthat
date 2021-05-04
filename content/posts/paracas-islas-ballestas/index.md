@@ -12,7 +12,7 @@ tags:
   - "sea-lions"
 featured_image: "images/Paracas-Islas-Ballestas-Humboldt-penguins.jpg"
 ---
-{{< img "images/Paracas-Islas-Ballestas-Islas-Ballestas-1.jpg" "300x200" "Islas Ballestas" >}}
+{{< img src="images/Paracas-Islas-Ballestas-Islas-Ballestas-1.jpg" fill="300x200" caption="Islas Ballestas" >}}
 The bus we’re taking, “Peru Hop,” stops first in the town of Paracas a
 few hours south of Lima. There’s not a whole lot there, a couple of
 fancy beach resorts, a main strip of restaurants for tourists, and a
@@ -28,7 +28,7 @@ We had a great time. I was too skeptical.
 
 ## Cactus geoglyph
 
-{{< img "images/Paracas-Islas-Ballestas-Cactus-geoglyph.jpg" "186x300" "Cactus geoglyph" >}}
+{{< img src="images/Paracas-Islas-Ballestas-Cactus-geoglyph.jpg" fill="186x300" caption="Cactus geoglyph" >}}
 On the way out you pass a geoglyph that dates back to the Paracas
 culture. This culture predates the more famous Nazca culture and dates
 back at least 2000 years. The geoglyph is a large carving of a cactus,
@@ -40,7 +40,7 @@ preserved. I wonder what we’ve built that will last 2000 years…
 
 ### Penguins
 
-{{< img "images/Paracas-Islas-Ballestas-Humboldt-penguins.jpg" "300x206" "Humboldt penguins" >}}
+{{< img src="images/Paracas-Islas-Ballestas-Humboldt-penguins.jpg" fill="300x206" caption="Humboldt penguins" >}}
 The first thing we saw as we approached the islands, was a curious sea
 lion in the water watching us. They’re very cute even if they are
 ruthless predators. Next we saw a small flock of Humbolt penguins
@@ -51,7 +51,7 @@ afraid.)
 
 ### Sea lions and seals
 
-{{< img "images/Paracas-Islas-Ballestas-Sea-lion.jpg" "300x200" "Sea lion" >}}
+{{< img src="images/Paracas-Islas-Ballestas-Sea-lion.jpg" fill="300x200" caption="Sea lion" >}}
 There are two kinds of seals living on the islands, fur seals, and sea
 lions. We mostly saw sea lions. They were basking on the rocks,
 climbing up out of the water, swimming around looking at us, and
@@ -60,7 +60,7 @@ sit on the rocks in a deliberate “look at me, aren’t I cute?” pose.
 
 ### Other birds
 
-{{< img "images/Paracas-Islas-Ballestas-Inca-Tern.jpg" "300x93" "Inca Tern" >}}
+{{< img src="images/Paracas-Islas-Ballestas-Inca-Tern.jpg" fill="300x93" caption="Inca Tern" >}}
 The are also Peruvian boobies (Sula variegata, “piquero”), Peruvian
 pelicans (Pelecanus thagus), Inca terns (Larosterna inca, “zarcillo”),
 and Guanay cormorants (Leucocarbo bougainvillii, “guanay”). The
@@ -69,7 +69,7 @@ to see bird babies! Sadly boobie babies are not as cute as penguins.
 
 ## Guano
 
-{{< img "images/Paracas-Islas-Ballestas-Guano-dock.jpg" "300x235" "Guano dock" >}}
+{{< img src="images/Paracas-Islas-Ballestas-Guano-dock.jpg" fill="300x235" caption="Guano dock" >}}
 These islands were once covered in guano several meters deep. Mostly
 produced by the guanay cormorants and the peruvian boobies the guano
 was basically strip mined and produced huge income for Peru and

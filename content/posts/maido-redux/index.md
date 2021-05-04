@@ -27,7 +27,7 @@ We decided to try sashimi, sushi, appetizer, and a main.
 
 #### Sashimi
 
-{{< img "images/Lima-Maido-Sashimi.jpg" "300x270" "Sashimi" >}}
+{{< img src="images/Lima-Maido-Sashimi.jpg" fill="300x270" caption="Sashimi" >}}
 For sashimi we had to have their uni, but they also were offering
 razor clams. I'm a big sucker for razor clams, and these razor clams
 were big suckers. Both of the sashimis were excellent. They we
@@ -47,7 +47,7 @@ perhaps we are the wrong audience.
 
 #### Ceviche
 
-{{< img "images/Lima-Maido-Sansei-ceviche-2.jpg" "300x212" "Sansei ceviche" >}}
+{{< img src="images/Lima-Maido-Sansei-ceviche-2.jpg" fill="300x212" caption="Sansei ceviche" >}}
 The menu had two intriguing ceviches. A "nissei" and a "sansei." We
 assumed the nissei would be more traditional and the sansei more "out
 there" since nissei is second generation and sansei is third
@@ -64,7 +64,7 @@ salty citrus notes. It was brilliant.
 
 #### Sudado
 
-{{< img "images/Lima-Maido-Nikkei-sudado-2.jpg" "300x234" "Nikkei sudado" >}}
+{{< img src="images/Lima-Maido-Nikkei-sudado-2.jpg" fill="300x234" caption="Nikkei sudado" >}}
 We also had the nikkei sudado. It's a tasty fish stew, with crispy
 fish, served in a delicious thick yellow soup. Traditional sudado can
 end up with muddled flavours but these flavors were clean and distinct
@@ -79,7 +79,7 @@ ramen but I had hoped they might be doing something surprising.
 
 #### Dessert
 
-{{< img "images/Lima-Maido-Murasaki-2.jpg" "300x202" "Dessert \"cebiche\"" >}}
+{{< img src="images/Lima-Maido-Murasaki-2.jpg" fill="300x202" caption="Dessert \"cebiche\"" >}}
 For dessert we ordered _another_ "ceviche" and an "egg in nest." The
 ceviche was chunks of white cherimoya to represent the fish, sweet
 potato crisps for the sweet potato, frozen mandarine sacs to play the

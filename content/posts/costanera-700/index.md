@@ -34,7 +34,7 @@ We saw people all around us having some kind of bright green drink in
 large glasses. We asked, it was a lemongrass lemonade! Had to have
 it. Was delicious. Will have to find it again.
 
-{{< img "images/Lima-Costanera-700-Sea-urchin-tiradito.jpg" "300x201" "Sea urchin tiradito" >}}
+{{< img src="images/Lima-Costanera-700-Sea-urchin-tiradito.jpg" fill="300x201" caption="Sea urchin tiradito" >}}
 We started with an uni _tiradito._ There was a special "_Erizo en
 Salsa Temsuyo"_ sea urchin in tempura sauce, but instead we ordered
 erizo tiradito with shoyu and olive oil "Costanera." At s/. 50 (about
@@ -57,7 +57,7 @@ ingredients were mostly traditional, big prawn, little prawn, onion,
 and carrot, with one special Peruvian touch - plantain. Plantain
 tempura is genius, I think every tempura should include it.
 
-{{< img "images/Lima-Costanera-700-Chita-a-la-sal-2.jpg" "300x167" "Chita a la sal" >}}
+{{< img src="images/Lima-Costanera-700-Chita-a-la-sal-2.jpg" fill="300x167" caption="Chita a la sal" >}}
 Finally we had the _chita a la sal_, a house specialty. The menu
 calls _chita_ "gilt head bream" (_s__parus aurata_) but most sources
 say chita is "peruvian grunt" (_anisotremus scapularis._) Either way

@@ -17,7 +17,7 @@ Lima has an active bakery scene both _pastelarias_ or pastry shops, and _panader
 
 ## Panadería Carmelitas
 
-{{< img "images/Lima-Turron-de-doña-pepa.jpg" "1024x768" "Carmelita's Turron de doña pepa" >}}
+{{< img src="images/Lima-Turron-de-doña-pepa.jpg" fill="1024x768" caption="Carmelita's Turron de doña pepa" >}}
 We originally went to this place because a friend, [Max
 Veenhuyzen](https://instagram.com/maxveenhuyzen?utm_source=ig_profile_share&igshid=l1u551vhvu4l),
 had eaten there and recommended the pork sandwiches (which are
@@ -30,7 +30,7 @@ have been regulars.
 
 ## Ana Avellana
 
-{{< img "images/Lima-Ana-Avellana-Cheesecake.jpg" "1024x956" "Ana Avellana Cheesecake and fresh fruit" >}}
+{{< img src="images/Lima-Ana-Avellana-Cheesecake.jpg" fill="1024x956" caption="Ana Avellana Cheesecake and fresh fruit" >}}
 This is a bakery that is supposedly "the best bakery in Lima." If you
 believe online reviews. Which you shouldn’t. Most interesting to us
 was that it was supposed to have really good cheesecake. Debbie loves
@@ -52,7 +52,7 @@ bakery in Lima."
 
 ## Maria Amenara
 
-{{< img "images/Lima-Mária-Almenara-Chocolate-turron.jpg" "1024x683" "Mária Almenara Chocolate turron" >}}
+{{< img src="images/Lima-Mária-Almenara-Chocolate-turron.jpg" fill="1024x683" caption="Mária Almenara Chocolate turron" >}}
 It was nice to find another open, friendly, light, airy cafe. It’s a
 nice place to sit and hanging out. They have a dense moist chocolate
 turron, almost a brownie in consistency. There’s an impressively
@@ -64,7 +64,7 @@ special trip.
 
 ## Cafe y Chocolate
 
-{{< img "images/Lima-Café-et-Chocolate-_-2-1.jpg" "1024x683" "Café et Chocolate Guargueros" >}}
+{{< img src="images/Lima-Café-et-Chocolate-_-2-1.jpg" fill="1024x683" caption="Café et Chocolate Guargueros" >}}
 Cafe y chocolate is a cute little coffee shop/pastelaria in Miraflores
 near where we were staying. It has a friendly staff, and a small
 selection of very well done pastries and cookies. It doesn't try to
@@ -86,14 +86,14 @@ nearby but don’t go out of your way.
 
 ## La Panetteria Barranco (Laboratorio)
 
-{{< img "images/Lima-La-Panetteria-Barranco-Berry-Tart.jpg" "1024x832" "Berry Tart" >}}
+{{< img src="images/Lima-La-Panetteria-Barranco-Berry-Tart.jpg" fill="1024x832" caption="Berry Tart" >}}
 Nice little place in Barranco. Tasty and creative desserts, ordinary
 coffee. There’s a nice mezzanine to sit at overlooking the main
 floor. I thought their lemon mousse was particularly nice.
 
 ## El Pan de la Chola
 
-{{< img "images/Lima-El-Pan-de-la-Chola-Morning-bun.jpg" "950x1024" "Morning bun" >}}
+{{< img src="images/Lima-El-Pan-de-la-Chola-Morning-bun.jpg" fill="950x1024" caption="Morning bun" >}}
 
 This place is so good that I’ve written a [whole
 post](/el-pan-de-la-chola/) about it. The

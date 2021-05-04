@@ -20,7 +20,7 @@ rock. The architecture is beautiful in a very Spanish Colonial sort of
 way, it reminded me of some of the Andalusian hill towns we visited
 while in Spain.
 
-{{< img "images/Andes-The-road.jpg" "300x219" "Altiplano highway" >}}
+{{< img src="images/Andes-The-road.jpg" fill="300x219" caption="Altiplano highway" >}}
 I noticed our bus company offered a tour to “Colca Canyon, the second
 deepest canyon after the Grand Canyon” which sounded interesting but
 not compelling. Until I read the more detailed description. Colca
@@ -29,7 +29,7 @@ up!
 
 ## Colca Canyon
 
-{{< img "images/Andes-Alpacas.jpg" "300x300" "Alpacas" >}}
+{{< img src="images/Andes-Alpacas.jpg" fill="300x300" caption="Alpacas" >}}
 The first day is spent getting to the town of Chivay, in the middle of
 the canyon. On the way you travel through the high desert, where we
 saw the four camelids of Peru, llama, alpaca, vicuña, and guanaco. The
@@ -53,7 +53,7 @@ still feel slow and exhausted at that altitude.
 
 ### Chivay
 
-{{< img "images/Chivay-Volcano.jpg" "300x218" "Volcano" >}}
+{{< img src="images/Chivay-Volcano.jpg" fill="300x218" caption="Volcano" >}}
 Chivay is the little town that’s the base for exploring Colca
 Canyon. What we hadn’t realized (due to our own lack of planning…) is
 that there are thermal hot springs in town! We weren’t going to miss
@@ -71,7 +71,7 @@ digesting it as you sleep.
 
 ### Aguas Termales “La Calera”
 
-{{< img "images/Chivay-Hot-springs.jpg" "300x159" "Hot springs" >}}
+{{< img src="images/Chivay-Hot-springs.jpg" fill="300x159" caption="Hot springs" >}}
 We are huge fans of natural hot springs, having spent time in them in
 New Zealand, Japan, Jordan, and Iceland. These were quite nice. The
 main outdoor pool was spacious and clean, there were mandatory
@@ -83,7 +83,7 @@ your neck.
 
 ### Colca Canyon
 
-{{< img "images/Andes-Colca-Canyon-Colca-canyon-2.jpg" "300x125" "Colca canyon Terraces" >}}
+{{< img src="images/Andes-Colca-Canyon-Colca-canyon-2.jpg" fill="300x125" caption="Colca canyon Terraces" >}}
 The next day we drove down the canyon, stopping at villages and scenic
 views along the way. Our guide explained how the valley had been more
 actively cultivated in Inca and pre-Inca times, and you could still
@@ -94,7 +94,7 @@ since pre-Inca times.
 
 ### Condors
 
-{{< img "images/Andes-Colca-Canyon-Andean-Condor-5.jpg" "271x300" "Andean Condor" >}}
+{{< img src="images/Andes-Colca-Canyon-Andean-Condor-5.jpg" fill="271x300" caption="Andean Condor" >}}
 Our guide had been preparing us for the possibility that we wouldn’t
 see condors. They don’t always come out since they can go as long as
 five weeks between meals. Additionally it was nesting season so they
@@ -108,7 +108,7 @@ ruff, adults will have a white ruff and white spots in the wing
 feathers. Most of the condors we saw were juveniles though there was
 one adult.
 
-{{< img "images/Andes-Colca-Canyon-Andean-Condor-4.jpg" "279x300" "Andean Condors" >}}
+{{< img src="images/Andes-Colca-Canyon-Andean-Condor-4.jpg" fill="279x300" caption="Andean Condors" >}}
 We were lucky or maybe there was a recent carcass. We first went to a
 lesser used viewing point and there were at least seven condors!
 Mostly juveniles, a couple were sitting on a rocky outcrop, but
@@ -120,7 +120,7 @@ but it was nothing compared with the first stop.
 
 ### Other Birds
 
-{{< img "images/Chivay-Andean-Sparrow.jpg" "252x300" "Andean Sparrow" >}}
+{{< img src="images/Chivay-Andean-Sparrow.jpg" fill="252x300" caption="Andean Sparrow" >}}
 Besides the Andean Condor (_Vultur Gryphus_) we also managed to see an
 American Kestrel (_Falco sparverius_), Mountain Caracara
 (_Phalcoboenus megalopterus_), giant hummingbird (_Patagona gigas_), a
@@ -132,7 +132,7 @@ up there.
 
 ### Cactus Ice cream
 
-{{< img "images/Andes-Colca-Canyon-Misqui-Sanky.jpg" "244x300" "Misqui Sanky" >}}
+{{< img src="images/Andes-Colca-Canyon-Misqui-Sanky.jpg" fill="244x300" caption="Misqui Sanky" >}}
 At every stop there are local vendors mostly selling the same tourist
 items, some handmade alpaca hats and blankets, and local foods. At one
 stop, one of the local foods was a _Helado de Sancayllo_ or Sancayllo

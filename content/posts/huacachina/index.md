@@ -11,7 +11,7 @@ featured_image: "images/Huacachina-Dunes.jpg"
 ---
 ## Huacachina
 
-{{< img "images/Huacachina-Huacachina.jpg" "300x200" "Huacachina" >}}
+{{< img src="images/Huacachina-Huacachina.jpg" fill="300x200" caption="Huacachina" >}}
 Huacachina is a natural desert oasis, just outside the city of
 Ica. There’s a small lagoon, surrounded by high sand dunes. There are
 maybe a hundred residents and thousands of visiting tourists each
@@ -27,7 +27,7 @@ racking than I expected. Those dunes are _tall_ and _steep_. It looks
 like you could easily fall, and if you did you’d tumble all the way to
 the bottom.
 
-{{< img "images/Huacachina-Dunes-2.jpg" "300x175" "Dunes" >}}
+{{< img src="images/Huacachina-Dunes-2.jpg" fill="300x175" caption="Dunes" >}}
 On the way back I stopped to take some pictures of the sun setting
 over the oasis, then walked back to the hostel. I think at least one
 of these dunes is currently in use as a standard Mac OS “Mojave”
