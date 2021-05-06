@@ -96,7 +96,7 @@ floor. I thought their lemon mousse was particularly nice.
 {{< img src="images/Lima-El-Pan-de-la-Chola-Morning-bun.jpg" fill="950x1024" caption="Morning bun" >}}
 
 This place is so good that I’ve written a [whole
-post](/el-pan-de-la-chola/) about it. The
+post](/posts/el-pan-de-la-chola/) about it. The
 breads are _amazing_, super hydrated, chewy crusty bread that reminds
 me of Tartine in San Francisco, or Sonoma Bakery in Sydney. The space
 itself is full of wooden tables that encourage you to sit and enjoy
