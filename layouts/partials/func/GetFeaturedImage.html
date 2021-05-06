@@ -15,8 +15,8 @@
 
 */}}
 
-{{/* Declare a new image asset variable, $coverImg */}}
-{{ $coverImg := "" }}
+{{/* Declare a new image asset variable, $coverImg defaults to site image if any*/}}
+{{ $coverImg := resources.Get (trim (site.Params.featured_image) "/") }}
 {{/* Use the value from front matter if present */}}
 {{ if .Params.featured_image }}
     {{ $imgPath := .Params.featured_image }}
@@ -28,17 +28,7 @@
     {{ end }}
 {{ else }}
   {{/* Find the first image with 'cover' in the name in this page bundle. */}}
-  {{ $coverImg = (.Resources.ByType "image").GetMatch "*cover*" }}
-  {{ if not $coverImg }}
-    {{/* if no cover image, use default site image if any */}}
-    {{ $imgPath := site.Params.featured_image }}
-    {{ $imgPath = (trim $imgPath "/") }}
-    {{ $coverImg = resources.Get $imgPath }}
-  {{ end }}
-{{ end }}
-
-{{ if $coverImg }}
-  {{ $coverImg = $coverImg.Fill "1440x642" }}
+  {{ with (.Resources.ByType "image").GetMatch "*cover*" }}{{ $coverImg = . }}{{ end }}
 {{ end }}
 
 {{ return $coverImg }}
