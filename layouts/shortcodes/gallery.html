@@ -19,17 +19,17 @@
   {{- range $originals -}}
     {{- $thumbnail := (.Resize "x150 Lanczos") -}}
     {{- $srcSet := partial "func/SrcSet" $thumbnail -}}
-    {{- $preview := .Fit "32x32 q20 webp" -}}
+    {{- $lqip := partial "func/lqip" . -}}
     {{- $aspectRatio := div (float $thumbnail.Width) $thumbnail.Height -}}
     {{- $sz := math.Round (mul $aspectRatio 150) -}}
     <div style="Width:{{$sz}}px;flex-grow:{{$sz}}">
       {{- $aspectRatio = div (math.Round (mul (div 100 $aspectRatio) 10)) 10}}
       <i style="padding-bottom:{{$aspectRatio}}%"></i>
       <img
-        src="data:image/webp;base64,{{$preview.Content | base64Encode }}"
+        {{ printf "src=%q" $lqip | safeHTMLAttr}}
         class="lozad"
-        data-src={{$thumbnail.RelPermalink}}
-        {{ with $srcSet }}data-srcset="{{.}}" data-sizes="{{$sz}}w"{{ end }}
+        data-src="{{$thumbnail.RelPermalink}}"
+        {{ with $srcSet }}data-srcset="{{.}}" data-sizes="{{$sz}}w"{{ end -}}
         data-idx={{$index}}
       >
     </div>

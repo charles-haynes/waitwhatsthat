@@ -7,6 +7,7 @@
 {{- $class := .Get "class" | default "fr w-33" -}}
 {{- $refImg := .Page.Resources.GetMatch $src -}}
 {{- $srcImg := $refImg -}}
+{{- $lqip := partial "func/lqip" $srcImg -}}
 {{- if $fill -}}{{- $srcImg := $refImg.Fill $fill -}}{{- end -}}
 {{- if $fit -}}{{- $srcImg := $refImg.Fit $fit -}}{{- end -}}
 {{- if $resize -}}{{- $srcImg := $refImg.Resize $resize -}}{{- end -}}
@@ -18,6 +19,7 @@
         {{ with $srcSet}}srcset="{{.}}" sizes="{{$sizes}}"{{ end }}
         src="{{ $srcImg.RelPermalink }}"
         {{ if ne $idx -1 }}data-idx="{{ $idx }}"{{ end }}
+        style="background-size: cover; {{printf "background-image: url(%q);" $lqip | safeCSS }}"
       >
   {{ if eq $idx -1 }}</a>{{ end }}
   <figcaption>{{ $caption }}</figcaption>
