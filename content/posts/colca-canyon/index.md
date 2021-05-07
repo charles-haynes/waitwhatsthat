@@ -55,7 +55,7 @@ still feel slow and exhausted at that altitude.
 
 {{< img src="images/Chivay-Volcano.jpg" fill="300x218" caption="Volcano" >}}
 Chivay is the little town that’s the base for exploring Colca
-Canyon. What we hadn’t realized (due to our own lack of planning…) is
+Canyon. What we hadn’t realized (due to our own lack of planning...) is
 that there are thermal hot springs in town! We weren’t going to miss
 _that_, so we went to the local mercado and bought swimsuits and
 towels, we were concerned that it might be difficult to find a
@@ -77,8 +77,8 @@ New Zealand, Japan, Jordan, and Iceland. These were quite nice. The
 main outdoor pool was spacious and clean, there were mandatory
 showers, lockers for your stuff, changing rooms, everything that you
 could want really and the setting was magnificent. Next to a stream,
-in the forest, in a canyon. The source emerges at about 80ºC and the
-main pool is 37-40ºC and deep enough to stand with the water up to
+in the forest, in a canyon. The source emerges at about 80oC and the
+main pool is 37-40oC and deep enough to stand with the water up to
 your neck.
 
 ### Colca Canyon

@@ -58,7 +58,7 @@ After visiting the salt mines, we drove a short distance to
 Moray. Moray is a visually striking set of Inca ruins, consisting of
 concentric circular terraces about 30m deep. Their purpose is still
 not known, but the temperature difference from the bottom to the top
-is about 15ºC total. One possible explanation is that it was an
+is about 15oC total. One possible explanation is that it was an
 agricultural research center exploring suitability of crops for
 different climate zones.
 
@@ -101,7 +101,7 @@ beverage pairings.
 
 #### Freeze dried potato (chuño), corn, wild uchucate, oca
 
-{{< img src="images/Moray-MIL-Chuñyo.jpg" fill="300x130" caption="Chuñyo" >}}
+{{< img src="images/Moray-MIL-Chuñyo.jpg" fill="300x130" caption="Chuñyo" >}}
 Chuño is naturally freeze dried potato, a technique invented centuries
 ago. There are two varieties: White and Black. White is supposed to be
 easy to digest, but I haven’t noticed any difficulty with either of

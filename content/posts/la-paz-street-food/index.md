@@ -119,7 +119,7 @@ we're staying so we'll have to give them a visit.
 
 ### Salteñas
 
-{{< img src="images/La-Paz-Salteñas-4.jpg" fill="300x180" caption="Salteñas" >}}
+{{< img src="images/La-Paz-Salteñas-4.jpg" fill="300x180" caption="Salteñas" >}}
 Besides the places we visited on our tour, we see lots of people
 selling _sateñas_ on the street, and lots of _salteñarías_ in the
 neighborhood. A _salteña_ is a small meat filled pastry, similar to an

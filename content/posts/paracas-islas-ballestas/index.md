@@ -34,7 +34,7 @@ culture. This culture predates the more famous Nazca culture and dates
 back at least 2000 years. The geoglyph is a large carving of a cactus,
 easily visible from the water and probably of ceremonial
 significance. It’s lasted over 2000 years and seems to be pretty well
-preserved. I wonder what we’ve built that will last 2000 years…
+preserved. I wonder what we’ve built that will last 2000 years...
 
 ## The islands
 

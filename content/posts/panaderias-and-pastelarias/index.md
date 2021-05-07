@@ -17,7 +17,7 @@ Lima has an active bakery scene both _pastelarias_ or pastry shops, and _panader
 
 ## Panadería Carmelitas
 
-{{< img src="images/Lima-Turron-de-doña-pepa.jpg" fill="1024x768" caption="Carmelita's Turron de doña pepa" >}}
+{{< img src="images/Lima-Turron-de-doña-pepa.jpg" fill="1024x768" caption="Carmelita's Turron de doña pepa" >}}
 We originally went to this place because a friend, [Max
 Veenhuyzen](https://instagram.com/maxveenhuyzen?utm_source=ig_profile_share&igshid=l1u551vhvu4l),
 had eaten there and recommended the pork sandwiches (which are
@@ -52,7 +52,7 @@ bakery in Lima."
 
 ## Maria Amenara
 
-{{< img src="images/Lima-Mária-Almenara-Chocolate-turron.jpg" fill="1024x683" caption="Mária Almenara Chocolate turron" >}}
+{{< img src="images/Lima-Mária-Almenara-Chocolate-turron.jpg" fill="1024x683" caption="Mária Almenara Chocolate turron" >}}
 It was nice to find another open, friendly, light, airy cafe. It’s a
 nice place to sit and hanging out. They have a dense moist chocolate
 turron, almost a brownie in consistency. There’s an impressively
@@ -64,7 +64,7 @@ special trip.
 
 ## Cafe y Chocolate
 
-{{< img src="images/Lima-Café-et-Chocolate-_-2-1.jpg" fill="1024x683" caption="Café et Chocolate Guargueros" >}}
+{{< img src="images/Lima-Café-et-Chocolate-_-2-1.jpg" fill="1024x683" caption="Café et Chocolate Guargueros" >}}
 Cafe y chocolate is a cute little coffee shop/pastelaria in Miraflores
 near where we were staying. It has a friendly staff, and a small
 selection of very well done pastries and cookies. It doesn't try to

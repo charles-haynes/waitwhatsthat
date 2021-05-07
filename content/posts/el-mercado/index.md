@@ -85,7 +85,7 @@ scallops.
 
 ### Dessert
 
-{{< img src="images/Lima-El-Mercado-Limeña-suspira.jpg" fill="300x104" caption="Limeña suspira" >}}
+{{< img src="images/Lima-El-Mercado-Limeña-suspira.jpg" fill="300x104" caption="Limeña suspira" >}}
 We hadn't yet tried the classic _Limeña suspira_ (Lima sigh) so we had
 it "three ways" for dessert. Classic _manjar blanco_ (aka _dulce de
 leche_), lucuma, and chirimoya. The name "manjar blanco" comes from

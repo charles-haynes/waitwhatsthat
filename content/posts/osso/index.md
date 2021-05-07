@@ -96,7 +96,7 @@ ground green herb sauce that complemented the meatiness of the pork.
 
 #### Chuletón de Res
 
-{{< img src="images/Lima-Osso-Chuletón-de-Res-2.jpg" fill="297x300" caption="Chuletón de Res" >}}
+{{< img src="images/Lima-Osso-Chuletón-de-Res-2.jpg" fill="297x300" caption="Chuletón de Res" >}}
 Finally the piece de resistance. Peruvian rib eye steak dry aged for
 200 days. The flavor of meat aged this long is concentrated from
 losing so much moisture, and has a super funky umami from the

@@ -3,7 +3,7 @@ title: "Nazca"
 date: "2018-12-12"
 categories: 
   - "restaurants"
-featured_image: "images/Nazca-La-araña.jpg"
+featured_image: "images/Nazca-La-araña.jpg"
 ---
 ## Nazca
 
@@ -27,7 +27,7 @@ would be better and the air less turbulent early in the day.
 
 {{< img src="images/Nazca-Charles-and-Debbie.jpg" fill="300x264" caption="Our Nazca plane" >}}
 The flight was in an eight seater single engine high wing plane. I
-don’t know plane models… the takeoff and flight were relatively
+don’t know plane models... the takeoff and flight were relatively
 uneventful, but the view was as good as we’d hoped! I’ll let the
 photos speak for themselves. On final approach for landing we also got
 to see some of the Nazca aqueducts. They had a large and sophisticated
