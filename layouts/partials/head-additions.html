@@ -1,5 +1,12 @@
 <style type="text/css">
+  {{/* add default img height */}}
   img { height: auto; } {{/* tachyons doesn't have it, need it for responsive images with heights */}}
+
+  {{/*
+  set the featured image for the page
+
+  make it responsive
+  */}}
   {{- $featured_image := partial "func/GetFeaturedImage.html" . }}
   {{- if $featured_image }}
     {{- $imageSet := partial "func/ImageSet.html" $featured_image -}}

@@ -1,7 +1,5 @@
 {{- $galleryCSS := resources.Get "gallery.css" | fingerprint -}}
 
-{{- $lozad := resources.Get "lozad.js" | minify | fingerprint -}}
-
 {{- $originals := .Page.Resources.ByType "image" -}}
 {{- $scratch := newScratch -}}
 {{- range $idx, $value := $originals -}}
@@ -12,7 +10,6 @@
 {{- $originals = slice -}}
 {{- range sort ($scratch.Get "values") "key" -}}{{$originals = $originals | append .value}}{{end}}
 <link href="{{ $galleryCSS.RelPermalink }}" rel="stylesheet">
-<script src="{{ $lozad.RelPermalink }}"></script>
 {{- $galleryId := (printf "gallery-%v" .Ordinal) }}
 <gallery id="{{ $galleryId }}">
   {{ $index := 0 }}
@@ -26,22 +23,20 @@
       {{- $aspectRatio = div (math.Round (mul (div 100 $aspectRatio) 10)) 10}}
       <i style="padding-bottom:{{$aspectRatio}}%"></i>
       <img
-        {{ printf "src=%q" $lqip | safeHTMLAttr}}
-        class="lozad"
-        data-src="{{$thumbnail.RelPermalink}}"
-        {{ with $srcSet }}data-srcset="{{.}}" data-sizes="{{$sz}}w"{{ end -}}
+        src="{{$thumbnail.RelPermalink}}"
+        {{ printf "style=\"background-size: cover; background-image: url(%s);\"" $lqip | safeHTMLAttr }}
+        loading="lazy"
+        {{ with $srcSet -}}
+          srcset="{{.}}" data-sizes="{{$sz}}w"
+        {{- else -}}
+          srcset="{{$thumbnail.RelPermalink}}"
+        {{- end }}
         data-idx={{$index}}
+        width={{$thumbnail.Width}} height={{$thumbnail.Height}}
       >
     </div>
     {{ $index = add $index 1 }}
   {{- end -}}
 </gallery>
-
-<script type="text/javascript">
- const observer =  lozad('.lozad', {
-   loaded: function(el) {el.classList.add('loaded')}
- });
- observer.observe();
-</script>
 
 {{ partial "partials/lightbox.html" $originals }}

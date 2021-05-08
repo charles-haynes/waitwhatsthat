@@ -20,12 +20,11 @@ gallery img {
     width: 100%;
     vertical-align: bottom;
 }
-gallery img.lozad {
-    filter: blur(3px);
-    transition: filter 500ms ease-in;
+img[loading="lazy"] {
+    filter: blur(5px);
+    transition: filter 400ms;
 }
 
-gallery img.lozad.loaded {
+img[loading="lazy"].loaded {
     filter: blur(0);
-    transition: filter 500ms ease-out;
 }

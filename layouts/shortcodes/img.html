@@ -16,10 +16,16 @@
 <figure class="{{$class}}">
   {{ if eq $idx -1 }}<a href="{{ $refImg.RelPermalink }}">{{ end }}
       <img
-        {{ with $srcSet}}srcset="{{.}}" sizes="{{$sizes}}"{{ end }}
         src="{{ $srcImg.RelPermalink }}"
+        {{ printf "style=\"background-size: cover; background-image: url(%s);\"" $lqip | safeHTMLAttr }}
+        loading="lazy"
+        {{ with $srcSet -}}
+          srcset="{{.}}" sizes="{{$sizes}}"
+        {{- else -}}
+          data-srcset="{{$srcImg.RelPermalink}}"
+        {{- end }}
         {{ if ne $idx -1 }}data-idx="{{ $idx }}"{{ end }}
-        style="background-size: cover; {{printf "background-image: url(%q);" $lqip | safeCSS }}"
+        width={{$srcImg.Width}} height={{$srcImg.Height}}
       >
   {{ if eq $idx -1 }}</a>{{ end }}
   <figcaption>{{ $caption }}</figcaption>
