@@ -9,7 +9,7 @@ tags:
   - "rafael-osterling"
 featured_image: "images/Lima-Rafael-Basque-cheese-tart.jpg"
 ---
-### The Chef
+## The Chef
 
 Rafael Osterling didn't start off to be a chef. He was going to be a
 lawyer. As the son of the leader of one of Peru's political parties he
@@ -27,7 +27,7 @@ restaurant with an a la carte menu, white tablecloths, crystal and a
 European inspired menu organized into appetizers, pasta, fish, and
 meat.
 
-### The Dishes
+## The Dishes
 
 While the menu be inspired by Europe, there is a love for Peru and its
 food. Ceviche and tiradito are there as well as "European" dishes with
@@ -48,7 +48,7 @@ with local ingredients. Our two desserts a basque cheese tart and
 inspirations but still used local ingredients like chirimoya that
 you'd never find in Europe.
 
-### Conclusion
+## Conclusion
 
 Rafael serves an delicious combination of Peruvian ingredients with
 European technique and flair. The service is friendly and

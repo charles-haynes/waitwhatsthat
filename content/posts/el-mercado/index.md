@@ -9,7 +9,7 @@ tags:
   - "rafael-osterling"
 featured_image: "images/Lima-El-Mercado-Conchas.jpg"
 ---
-### The place
+## The place
 
 El Mercado is a fancy fish oriented restaurant by Rafael Osterling
 (the chef/owner of [Rafael.](https://waitwhatsthat.com/rafael/)) It
@@ -27,7 +27,7 @@ accomplishment given that it's actually set in a rather ordinary
 neighborhood of concrete high rise apartments and small mechanic's
 shops.
 
-### Ceviche
+## Ceviche
 
 {{< img src="images/Lima-El-Mercado-Ceviche-Pucusana.jpg" fill="228x300" caption="Ceviche" >}}
 The ceviche may be the best we've had. We had both a ceviche
@@ -42,7 +42,7 @@ delicate. The avocado nicely rounded out the flavors with the sweet
 scallops. All together it was well balanced, and the subtle flavors
 were a reminder that ceviche does not have to hit you on the head.
 
-### Tiradito
+## Tiradito
 
 {{< img src="images/Lima-El-Mercado-Tiradito-Nikkei.jpg" fill="300x132" caption="Tiradito \"Nikkei\"" >}}
 Tiradito is based on sashimi. The fish is sliced into thin rectangular
@@ -57,7 +57,7 @@ all tiradito is in some sense "_nikkei._" The "nikkei" tiradito at El
 Mercado was yellowfin tuna with a mild sweet soy and sesame oil sauce
 garnished with an avocado fan. Not flashy, just delicious.
 
-### Empanadas
+## Empanadas
 
 {{< img src="images/Lima-El-Mercado-Empanadas-2.jpg" fill="300x258" caption="Empanadas \"porteños\"" >}}
 _Empanadas Porteñas_ ("port" empanadas) are presumably called that
@@ -67,7 +67,7 @@ because they're small and cute. Lima loves its empanadas, every street
 vendor and food stall will sell you an empanada of chicken or meat of
 uncertain provenance, but these seafood empanadas were just fine.
 
-### Scallops
+## Scallops
 
 {{< img src="images/Lima-El-Mercado-Conchas.jpg" fill="300x226" caption="Conchas" >}}
 While we had quickly decided on ceviche and tiradito, I strained my
@@ -83,7 +83,7 @@ sauces providing just an accent. There was a bit of menu writing
 license, I'm pretty sure greeks don't use ají amarillo sauce on
 scallops.
 
-### Dessert
+## Dessert
 
 {{< img src="images/Lima-El-Mercado-Limeña-suspira.jpg" fill="300x104" caption="Limeña suspira" >}}
 We hadn't yet tried the classic _Limeña suspira_ (Lima sigh) so we had
@@ -100,7 +100,7 @@ bit of contrast with fruity strawberry, banana, and pear notes. The
 meringue was not my favorite, it reminds me of marshmallow fluff, but
 I'm not going to argue with a 100 year old tradition.
 
-### In conclusion
+## In conclusion
 
 Great fresh fish treated with respect, airy green outdoorsy space,
 upscale but not fussy or pretentious.

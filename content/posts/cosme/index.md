@@ -10,7 +10,7 @@ tags:
   - "restaurant"
 featured_image: "images/Lima-Cosme-Mollejas_.jpg"
 ---
-### The place
+## The place
 
 Cosme is one of the "new, trendy, hip" places on all the Lima food
 lists. It emphasizes sustainability and is decor is reused,
@@ -20,7 +20,7 @@ decorated with soda bottle caps. The restaurant's mascot is the local
 vulture, while not known for its looks it's an essential part of the
 ecosystem, scavenging and cleaning up after others.
 
-### The food
+## The food
 
 The dishes are an eclectic mix, fundamentally Peruvian, but with nods
 to other cultures. We had the _mollejas_ (sweetbreads), a _"cebiche"_
@@ -52,7 +52,7 @@ could do something interesting with the form. It was pretty much
 exactly what you'd expect if I said "lucuma lava cake" but it was
 delicious!
 
-### In conclusion
+## In conclusion
 
 I love the concept, I like the decor, the food is good, and the
 sweetbreads are great!

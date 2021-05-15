@@ -10,7 +10,7 @@ tags:
   - "yaquir-sato"
 featured_image: "images/Lima-Costanera-700-Sea-urchin-tiradito.jpg"
 ---
-### The place
+## The place
 
 Costanera 700 is one of the oldest _Nikkei_ (Japanese
 Peruvian) restaurants in Lima. It was founded by _nissei_ Humberto
@@ -28,7 +28,7 @@ website and business card list two addresses which turn out to be the
 front and back doors. We sat upstairs where there are wide glass
 windows and a panoramic view of the ocean.
 
-### The food
+## The food
 
 We saw people all around us having some kind of bright green drink in
 large glasses. We asked, it was a lemongrass lemonade! Had to have
@@ -69,7 +69,7 @@ is beautiful to watch. It's served very simply with just melted
 butter, chopped garlic, and chopped ginger on the side for you to add
 to your taste.
 
-### In conclusion
+## In conclusion
 
 We managed to order well, mostly by luck we seemed to hit the most
 popular dishes. I'd estimate about half of the tables ordered chita a

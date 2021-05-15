@@ -15,11 +15,11 @@ tags:
 featured_image: "images/Lima-Osso-Picapiedra-Nacional.jpg"
 ---
 
-### The Place
+## The Place
 
 Osso is Lima's "temple to meat," a restaurant, butcher shop, and charcuterie. It was started in the suburb of La Molina, about 30-45 minutes from downtown Lima. There's also a branch in San Isidro close to the financial district but we wanted to visit the mother church. Most tourists don't venture much past Miraflores, Barranco, and maybe central Lima so this was a nice adventure and opportunity to see more of Lima.
 
-#### The store
+### The store
 
 {{< img src="images/Lima-Osso-Making-sausage.jpg" fill="300x292" caption="Making sausage" >}}
 We left a bit early in order to give ourselves some insurance for
@@ -39,7 +39,7 @@ lots of Peruvian but also plenty imported from the US. If you like dry
 aged beef the place is very much like a temple. I went from case to
 case saying "oh wow."
 
-#### The restaurant
+### The restaurant
 
 {{< img src="images/Lima-Osso-Mollejas.jpg" fill="300x161" caption="Mollejas" >}}
 By then the restaurant was open, so we took our seats. The restaurant
@@ -51,7 +51,7 @@ We had _mollejas_ (sweetbreads), _anticuchos_ (beef heart), a wedge
 salad, _chicharrones_ (fried pork), and _chuletón de res_ (large
 ribeye steak). This way way too much food, but so worth it.
 
-#### Mollejas
+### Mollejas
 
 The first appetiser, mollejas (sweetbreads) over _camote_ (sweet
 potato), was much larger than we had expected. It was five grilled
@@ -59,7 +59,7 @@ sweetbreads over camote puree, and reminded me a bit of the mollejas
 at [Cosme.](/cosme/) Nicely griddled, well
 balanced by the sweetness of the camote.
 
-#### Anticuchos
+### Anticuchos
 
 {{< img src="images/Lima-Osso-Anticuchos-2.jpg" fill="300x221" caption="Anticuchos" >}}
 Next came the anticuchos. Anticuchos are practically the national
@@ -81,7 +81,7 @@ happened and proceeded to remove the others by stabbing a piece of
 heart with the fork and gingerly pulling the skewer out. Thank
 goodness there were no more instances of flying meat.
 
-#### Chicharrón
+### Chicharrón
 
 {{< img src="images/Lima-Osso-Three-chicharrones.jpg" fill="300x148" caption="Three chicharrones" >}}
 Next we had three kinds of _chicharrón_. Chicharrón are "cracklings"
@@ -94,7 +94,7 @@ crackling. The pachamanca was in a style reminiscent of traditional
 hot stone cooking. Steamed with a slightly sour slightly pungent
 ground green herb sauce that complemented the meatiness of the pork.
 
-#### Chuletón de Res
+### Chuletón de Res
 
 {{< img src="images/Lima-Osso-Chuletón-de-Res-2.jpg" fill="297x300" caption="Chuletón de Res" >}}
 Finally the piece de resistance. Peruvian rib eye steak dry aged for
@@ -114,7 +114,7 @@ enough time before the fat congeals. The aroma was intensely meaty and
 funky from the aging, the flavor delivered on the promise of the
 delicious cooking smells.
 
-#### Salad and petits fours
+### Salad and petits fours
 
 {{< img src="images/Lima-Osso-Meringues.jpg" fill="300x196" caption="Meringues" >}}
 We also had an iceberg wedge salad with blue cheese vinaigrette to try
@@ -126,7 +126,7 @@ us some cute meringues with bacon caramel and crispy quinoa.
 The whole place felt very male, and very USAdian with US music, signs
 in english, and lots of homage to the US steak house.
 
-### Conclusion
+## Conclusion
 
 Osso deserves every bit of it's outsized reputation. It's worth a trip out to La Molina.
 

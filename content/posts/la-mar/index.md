@@ -17,7 +17,7 @@ bookings, we decided to go for lunch. When we got there, there was no
 wait at all which was a pleasant surprise. As we walked in we walked
 past a display of fresh whole fish on ice, which piqued our interest.
 
-### Ceviche
+## Ceviche
 
 We decided to have their ceviche sampler, which had a classic ceviche
 of Peruvian sea bass (not Patagonian toothfish, but a kind of perch),
@@ -37,7 +37,7 @@ muddying things. The nikei style was a tiny bit sweeter than I'd have
 liked but still great. The conchas negras were dark purple and had a
 natural sweetness that was highlighted by fresh lime acidity.
 
-### Whole Fish
+## Whole Fish
 
 We could easily have made a meal of just those starters, but we had to
 try the whole fish. We let the waiter suggest one, and I thought he
@@ -51,7 +51,7 @@ head and tried to parse it with my fork. The waitress noticed, and not
 only brought a setup of the proper utensils, but kindly boned it out
 for us at the table!
 
-### In Conclusion
+## In Conclusion
 
 La Mar is a great place, though not cheap. If I were looking for top
 end seafood in Lima, I'd head here.

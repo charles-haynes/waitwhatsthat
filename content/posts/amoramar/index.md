@@ -6,7 +6,7 @@ categories:
 featured_image: "images/Lima-Amoramar-Ceviche.jpg"
 ---
 
-### The place
+## The place
 
 {{< img src="images/Lima-Amoramar-Amaromar.jpg" fill="300x159" caption="Amoramar" >}}
 Amoramar is another gem tucked away in an urban environment. On an
@@ -15,7 +15,7 @@ and into an oasis. A tree lined patio with tables under a screened
 roof. You walk past the big wood fired brick oven where the
 _parrillero_ is roasting a _cochinillo lechal_ (suckling piglet.)
 
-### The food
+## The food
 
 The menu is modern Peruvian with sections for _Entradas, Wok, Pesca,
 Granja,_ and _"Para Endulzar"_ We decided to have two entrees, a fish,
@@ -25,7 +25,7 @@ They started by bringing us an _abreboca_ (amuse/appetiser) of pork
 and plantain crisp with an asian salsa. It was tasty and helped make
 up for our decision to not have the roast piglet.
 
-#### Cheese tiradito?!
+### Cheese tiradito?!
 
 {{< img src="images/Lima-Amoramar-Ceviche.jpg" fill="300x124" caption="Tiradito" >}}
 We had seen _Tiradito Grana Padano_ on the menu and had been bemused
@@ -36,14 +36,14 @@ fish dressed with a _leche de tigre_ ("tiger's milk" juice for
 ceviche) emulsion, garnished with radish, avocado  puree, and grana
 padano crisps. It actually worked pretty well.
 
-#### Grilled scallops
+### Grilled scallops
 
 We tried their _Conchas al Fuego_ (grilled scallops). They were served
 in the shell very hot on a bed of rock salt. The seasoning was asian
 lemon butter and crispy garlic. It was a bit sweet, nice but not
 extraordinary, but grilled scallops are always a treat.
 
-#### Paiche
+### Paiche
 
 {{< img src="images/Lima-Amoramar-Paiche.jpg" fill="300x215" caption="Paiche" >}}
 We've been seeing _paiche_ on menus a lot in Lima. It's the second
@@ -55,7 +55,7 @@ only a lot bigger. This was grilled paiche over asparagus and potato
 puree. The paiche was delicious, firm and tasty, asparagus was fresh,
 sweet, and not overcooked.
 
-#### Dessert
+### Dessert
 
 {{< img src="images/Lima-Amoramar-Dessert.jpg" fill="300x200" caption="Dessert" >}}
 Finally we shared a _Isla de Frutos del Bosque_ "Island of fruits of
@@ -68,7 +68,7 @@ sweet strawberry sauce over the top. The strawberries were underripe,
 the tan jello was boring, and the strawberry sauce was too
 sweet. Amoramar needs to raise their dessert game...
 
-### In Conclusion
+## In Conclusion
 
 {{< img src="images/Lima-Amoramar-Roast-Pig.jpg" fill="300x134" caption="Roast Pig" >}}
 Overall the setting was excellent, the dishes were well done but not

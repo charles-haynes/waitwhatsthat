@@ -9,7 +9,7 @@ tags:
   - "peru"
 featured_image: "images/Lima-IK-Restaurante-Kallampas-project.jpg"
 ---
-### The restaurant
+## The restaurant
 
 IK restaurant is one of the fancy "modern Peruvian" restaurants in
 Lima that is not part of the Gastón Acurio (Astrid & Gastón) and
@@ -26,7 +26,7 @@ Barcelona, where he was working with Albert Adría, to run IK. He
 recruited Francesca in 2108. Francesca has experience in high end
 kitchens both in Spain (Celler de Can Roca) and Thailand (Gaggan).
 
-### Dishes
+## Dishes
 
 The food uses traditional Peruvian ingredients but borrows from a
 number of different cuisines some of which are unusual in
@@ -54,7 +54,7 @@ slippery jack uninspiring. IK however has done amazing things with it,
 creating a dish of soup, dumpling, and cracker, all made from the
 K'allampa mushroom.
 
-### Conclusion
+## Conclusion
 
 We really enjoyed IK, very satisfying on all levels, especially
 considering how reasonable the price was for the level of dining.

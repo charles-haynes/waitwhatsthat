@@ -5,7 +5,7 @@ categories:
   - "restaurants"
 featured_image: "images/Lima-Osaka-Unagi-nigiri.jpg"
 ---
-### The restaurant and the cuisine
+## The restaurant and the cuisine
 
 Osaka has a reputation as one of the best _nikkei_
 (Japanese-Peruvian) places in Lima. It may not be as internationally
@@ -26,7 +26,7 @@ table. The room itself is uncrowded with a view of the sushi bar and
 glimpses of the kitchen. The staff are attentive and friendly, happy
 to explain the dishes and ingredients (even in English.)
 
-### The food
+## The food
 
 At first the menu seems like standard Japanese restaurant fare,
 sashimi, nigiri, maki, tempura, yakimono, until you look more closely
@@ -36,7 +36,7 @@ dishes from the _haru_ (Spring season) menu and skip the _omakase_
 which looked like it might have been more conventional than we had in
 mind.
 
-#### Ceviche
+### Ceviche
 
 {{< img src="images/Lima-Osaka-Ceviche.jpg" fill="278x300" caption="Ceviche" >}}
 The three ceviches we chose were "OSK," "Rocoto Jam," and "Wasabi."
@@ -48,7 +48,7 @@ flavors worked well with the fatty full flavored salmon. The wasabi
 ceviche was _shiromi_ (white fish) and scallops in a traditional tart
 citrus ceviche enlivened with a bit of wasabi.
 
-#### Spring season specials
+### Spring season specials
 
 The seasonal menu included "Shiro Tuna," "Unagi Nigiri," "Niku
 Zabuton," and "Umi Yuzu."
@@ -82,7 +82,7 @@ pan. It was delicious and we ate every bit, scraping up every last
 bit. This dish was delayed for some reason, and the bottom was a
 little bit past brown though perhaps that was on purpose?
 
-### In conclusion
+## In conclusion
 
 Osaka feels like a Japanese restaurant, but the Peruvian influence is
 ubiquitous. It was a joy to experience.

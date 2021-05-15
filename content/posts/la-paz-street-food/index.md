@@ -15,7 +15,7 @@ time. She came by in her car, with her son to translate, and took us
 to a half dozen street food places. It was interesting that all of the
 shops and stands are run by women.
 
-### Chola Sandwich
+## Chola Sandwich
 
 {{< img src="images/La-Paz-Pork-Leg.jpg" fill="300x225" caption="Pork Leg" >}}
 First stop was a roast pork sandwich place run by two sisters and
@@ -30,7 +30,7 @@ sandwiches are so delicious! They go through about ten roast pork legs
 a day, starting around 4pm and finishing when the pork runs out -
 usually 8 or 9pm.
 
-### Sausage Sandwich
+## Sausage Sandwich
 
 {{< img src="images/La-Paz-Mercado-Lanza-Chorizo-and-fixings.jpg" fill="276x300" caption="Chorizo and fixings" >}}
 Next up was _Doña Elvira's Sándwich de Chorizo_ that is a handmade
@@ -48,7 +48,7 @@ eating their sandwiches. The one thing they serve is a _chorizo_
 of garnishes (_escabeche_, lettuce, vegetables), and a choice of
 sauces (mayonnaise and/or mustard).
 
-### Braised Tripe
+## Braised Tripe
 
 {{< img src="images/La-Paz-Tripe-stand.jpg" fill="300x191" caption="Tripe stand" >}}
 _Tripa_ is beef tripe cooked in a giant enameled metal pan over a gas
@@ -59,7 +59,7 @@ covered with tiny plastic bags while you sit around the cart on
 plastic stools. This is a quintessential "after the clubs" dish to
 soak up excess alcohol. We like it even without the alcohol.
 
-### Beef Heart
+## Beef Heart
 
 {{< img src="images/La-Paz-Anticuchos-stand.jpg" fill="271x300" caption="Anticuchos stand" >}}
 Bolivian _anticuchos_ (grilled beef heart) are smaller and thinner
@@ -91,7 +91,7 @@ from drips by the crowd surrounding the cart. The are dramatic flaming
 flare-ups every time new skewers are added or turned, which is a lot
 of fun.
 
-### Braised Kidneys
+## Braised Kidneys
 
 {{< img src="images/La-Paz-Kidneys-3.jpg" fill="204x300" caption="Kidneys" >}}
 _Riñoncitos al jugo_ or braised kidneys are another classic late night
@@ -103,7 +103,7 @@ dish - braised kidneys in their own juice (no not that juice.) The
 kidneys were well prepared, clean and not overcooked. They were served
 with a deep fried egg, shredded carrot, and an optional spicy salsa.
 
-### _Api_ and _Pastel_
+## _Api_ and _Pastel_
 
 {{< img src="images/La-Paz-Api-2.jpg" fill="225x300" caption="Api" >}}
 We were near the traditional Christmas Fair fairgrounds, where they
@@ -117,7 +117,7 @@ also sell another warm sweet corn drink _tojori_ that I want to
 try. Apparently one of the best carts for _api_ is right near where
 we're staying so we'll have to give them a visit.
 
-### Salteñas
+## Salteñas
 
 {{< img src="images/La-Paz-Salteñas-4.jpg" fill="300x180" caption="Salteñas" >}}
 Besides the places we visited on our tour, we see lots of people
@@ -132,7 +132,7 @@ trying them all, but as it is we've tried a few in the
 neighborhood. They make a nice comforting warm snack but the sauce
 tends to be a bit sweet for my taste.
 
-### Ceviche
+## Ceviche
 
 We tried one _ceviche_ cart while we were out walking around. It was
 pretty good! It had all the usual ingredients, fish, seafood, _choclo_

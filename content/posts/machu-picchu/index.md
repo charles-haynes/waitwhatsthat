@@ -34,7 +34,7 @@ skipped the sorojchi.
 
 ## Getting there
 
-### Cusco to Machu Picchu Pueblo (Aguas Calientes)
+## Cusco to Machu Picchu Pueblo (Aguas Calientes)
 
 {{< img src="images/Poroy-All-Aboard.jpg" fill="300x229" caption="All Aboard" >}}
 The easiest and most comfortable way to get from Cusco to Machu Picchu
@@ -59,7 +59,7 @@ picturesque gorges. You see wildlife, pretty flowers, grazing animals,
 ancient farming terraces, Andean towns, and of course stunning
 mountains.
 
-### Machu Picchu Pueblo to Machu Picchu
+## Machu Picchu Pueblo to Machu Picchu
 
 {{< img src="images/Machu-Picchu-Pueblo-Machu-Picchu-Pueblo.jpg" fill="300x217" caption="Machu Picchu Pueblo" >}}
 The town of Machu Picchu Pueblo is all about the tourism. That’s not
@@ -90,7 +90,7 @@ and cash (our hotel took care of it for us.) The bus just scans the
 ticket so you might be able to buy online just on your smartphone but
 our hotel gave us printed tickets.
 
-### Machu Picchu
+## Machu Picchu
 
 Logistically there two time slots for getting in to Machu
 Picchu. Either morning 6am-noon, or afternoon noon-6pm. Each slot has

@@ -38,7 +38,7 @@ preserved. I wonder what we’ve built that will last 2000 years...
 
 ## The islands
 
-### Penguins
+## Penguins
 
 {{< img src="images/Paracas-Islas-Ballestas-Humboldt-penguins.jpg" fill="300x206" caption="Humboldt penguins" >}}
 The first thing we saw as we approached the islands, was a curious sea
@@ -49,7 +49,7 @@ ledge covered with mussels and big red crabs trying to figure out how
 to get into the water (and being put off by the noisy boat I’m
 afraid.)
 
-### Sea lions and seals
+## Sea lions and seals
 
 {{< img src="images/Paracas-Islas-Ballestas-Sea-lion.jpg" fill="300x200" caption="Sea lion" >}}
 There are two kinds of seals living on the islands, fur seals, and sea
@@ -58,7 +58,7 @@ climbing up out of the water, swimming around looking at us, and
 trying to catch the big red crabs. Pretty darn cute, they seemed to
 sit on the rocks in a deliberate “look at me, aren’t I cute?” pose.
 
-### Other birds
+## Other birds
 
 {{< img src="images/Paracas-Islas-Ballestas-Inca-Tern.jpg" fill="300x93" caption="Inca Tern" >}}
 The are also Peruvian boobies (Sula variegata, “piquero”), Peruvian

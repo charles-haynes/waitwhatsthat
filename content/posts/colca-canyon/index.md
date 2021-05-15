@@ -42,7 +42,7 @@ like a moss, but is actually a succulent that grows in a thin hard
 layer over rocks. It grows a few centimeters a year for the first few
 years, then a millimeter or so a year after that.
 
-### Mirador de los Andes
+## Mirador de los Andes
 
 On the way, you pass through _Mirador de los Andes_ or “Andes
 lookout.” It’s one of the highest highway passes in the world at 4910
@@ -51,7 +51,7 @@ altitude! The guide suggested back in Arequipa that we buy coca leaves
 and told us how and when to use them. They definitely help, but you
 still feel slow and exhausted at that altitude.
 
-### Chivay
+## Chivay
 
 {{< img src="images/Chivay-Volcano.jpg" fill="300x218" caption="Volcano" >}}
 Chivay is the little town that’s the base for exploring Colca
@@ -69,7 +69,7 @@ used whole or ground (_molido_) as part of soups or stews. Local
 advice is to eat chuñyo for your midday meal to avoid trouble
 digesting it as you sleep.
 
-### Aguas Termales “La Calera”
+## Aguas Termales “La Calera”
 
 {{< img src="images/Chivay-Hot-springs.jpg" fill="300x159" caption="Hot springs" >}}
 We are huge fans of natural hot springs, having spent time in them in
@@ -81,7 +81,7 @@ in the forest, in a canyon. The source emerges at about 80oC and the
 main pool is 37-40oC and deep enough to stand with the water up to
 your neck.
 
-### Colca Canyon
+## Colca Canyon
 
 {{< img src="images/Andes-Colca-Canyon-Colca-canyon-2.jpg" fill="300x125" caption="Colca canyon Terraces" >}}
 The next day we drove down the canyon, stopping at villages and scenic
@@ -92,7 +92,7 @@ were not currently being used due to frost and lack of water, but you
 could see how this area had been an important food production area
 since pre-Inca times.
 
-### Condors
+## Condors
 
 {{< img src="images/Andes-Colca-Canyon-Andean-Condor-5.jpg" fill="271x300" caption="Andean Condor" >}}
 Our guide had been preparing us for the possibility that we wouldn’t
@@ -118,7 +118,7 @@ seven was luxurious enough. Afterwards we visited the main _Cruz de
 Condor_ (Condor Cross) viewing area where there was one more condor
 but it was nothing compared with the first stop.
 
-### Other Birds
+## Other Birds
 
 {{< img src="images/Chivay-Andean-Sparrow.jpg" fill="252x300" caption="Andean Sparrow" >}}
 Besides the Andean Condor (_Vultur Gryphus_) we also managed to see an
@@ -130,7 +130,7 @@ andecola_). We also saw coots, ducks, black ibises, and an Andean
 eagle called a caracara. Surprisingly to me there's a lot of wetland
 up there.
 
-### Cactus Ice cream
+## Cactus Ice cream
 
 {{< img src="images/Andes-Colca-Canyon-Misqui-Sanky.jpg" fill="244x300" caption="Misqui Sanky" >}}
 At every stop there are local vendors mostly selling the same tourist

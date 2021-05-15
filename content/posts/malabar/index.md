@@ -8,7 +8,7 @@ tags:
   - "peru"
 featured_image: "images/Lima-Malabar-Coconut-and-pineapple.jpg"
 ---
-### The place
+## The place
 
 Malabar is one of Lima's "nice" restaurants. Business people,
 tourists, people with money, in the financial district. Doing creative
@@ -25,7 +25,7 @@ the technique is still there. The menu includes some interesting
 ferments both in the dishes and in the drinks. Kombucha with local
 herbs for example.
 
-### The dishes
+## The dishes
 
 There are challenging dishes, he's not afraid to take risks, I've
 never had giant Amazonian river snail before but they were delicious,
@@ -34,7 +34,7 @@ pig) was particularly well done, juicy, and tender with especially
 crispy skin. The inclusion of succulents in the green salad was a
 refreshingly crunchy touch.
 
-### In conclusion
+## In conclusion
 
 The staff was quite friendly and helpful with good recommendations for
 the rest of our trip. I'd happily go again.
