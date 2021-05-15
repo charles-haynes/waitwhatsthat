@@ -7,7 +7,7 @@ image RelPermalinks and widths suitable for using as a srcSet
 {{- $srcSet := slice }}
 {{- range $sizes -}}
   {{- if lt . $img.Width -}}
-    {{- $srcSet = $srcSet | append (printf "%s %dw" ($img.Resize (printf "%dx q75 Lanczos" .)).RelPermalink .) -}}
+    {{- $srcSet = $srcSet | append (printf "%s %dw" ($img.Resize (printf "%dx q75 Lanczos webp" .)).RelPermalink .) -}}
   {{- end -}}
 {{- end -}}
 {{- return (delimit $srcSet ", ") -}}

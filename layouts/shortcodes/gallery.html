@@ -14,7 +14,21 @@
 <gallery id="{{ $galleryId }}">
   {{ $index := 0 }}
   {{- range $originals -}}
-    {{- $thumbnail := (.Resize "x150 Lanczos") -}}
+    {{- $alt := "" -}}
+    {{- with .Exif -}}{{- with .Tags -}}
+      {{- with .Headline -}}
+        {{- $alt = . -}}
+      {{- else -}}
+        {{- with .Title -}}
+          {{- $alt = . -}}
+        {{- else -}}
+          {{- with .ImageDescription -}}
+            {{- $alt = . -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}{{- end -}}
+    {{- $thumbnail := (.Resize "x150 Lanczos webp") -}}
     {{- $srcSet := partial "func/SrcSet" $thumbnail -}}
     {{- $lqip := partial "func/lqip" . -}}
     {{- $aspectRatio := div (float $thumbnail.Width) $thumbnail.Height -}}
@@ -33,6 +47,7 @@
         {{- end }}
         data-idx={{$index}}
         width={{$thumbnail.Width}} height={{$thumbnail.Height}}
+        alt={{$alt}}
       >
     </div>
     {{ $index = add $index 1 }}

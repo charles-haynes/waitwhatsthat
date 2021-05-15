@@ -8,7 +8,7 @@ image-set
 {{- $srcSet := slice }}
 {{- range $sizes -}}
   {{- if lt . $img.Width -}}
-    {{- $srcSet = $srcSet | append (dict "width" . "url" ($img.Resize (printf "%dx q75 Lanczos" .)).RelPermalink) -}}
+    {{- $srcSet = $srcSet | append (dict "width" . "url" ($img.Resize (printf "%dx q75 Lanczos webp" .)).RelPermalink) -}}
   {{- end -}}
 {{- end -}}
 {{- return $srcSet -}}
